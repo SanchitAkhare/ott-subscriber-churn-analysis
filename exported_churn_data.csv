@@ -1,0 +1,853 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0002-ORFBO,3/15/2021,Refferal,3/15/2025,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,4/12/1982,,,,
+0003-MKNFE,8/1/2020,Paid,8/1/2024,Premium,Annual,9/10/2024,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,11/23/1995,8/28/2024,Y,10,2
+0004-TLHLJ,11/20/2022,Organic,11/20/2025,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,2/15/1978,,,,
+0011-IGKFF,5/10/2019,Paid,5/10/2025,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,8/30/2001,,,,
+0013-EXCHZ,1/5/2023,Refferal,1/5/2024,Standard,Monthly,2/28/2024,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,5/5/1990,1/20/2024,Y,20,1
+0013-MHZWF,6/18/2022,Paid,6/18/2025,Standard,Annual,,,17.99,720,22,0,durga,India,Delhi,Female,12/10/1988,3/18/2025,N,90,1
+0013-SMEOE,9/30/2021,Refferal,9/30/2024,Basic,Monthly,11/15/2024,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,9/21/1976,11/1/2024,N,30,1
+0014-BMAQU,2/14/2020,Organic,2/14/2025,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,3/14/1999,,,,
+0015-UOCOJ,7/22/2023,Organic,7/22/2024,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,7/7/1985,,,,
+0016-QLJIS,4/3/2022,Organic,4/3/2025,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,10/29/1993,,,,
+0017-DINOC,12/1/2021,Organic,12/1/2025,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,1/22/1997,,,,
+0017-IUDMW,3/17/2023,Refferal,3/17/2024,Standard,Monthly,5/1/2024,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,6/18/1981,4/10/2024,Y,25,1
+0018-NYROU,10/9/2020,Organic,10/9/2025,Standard,Annual,,,13.99,980,19,0,chitra,India,Telangana,Female,12/1/2004,,,,
+0019-EFAEP,8/25/2022,Refferal,8/25/2024,Basic,Monthly,10/31/2024,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,4/25/1992,9/27/2024,Y,30,1
+0019-GFNTW,11/11/2019,Paid,11/11/2025,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,11/11/1979,,,,
+0020-INWCK,5/6/2023,Organic,5/6/2025,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,2/28/1986,,,,
+0020-JDNXP,1/19/2022,Organic,1/19/2024,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,8/19/1994,,,,
+0021-IKXGC,7/7/2021,Paid,7/7/2025,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,9/2/2000,,,,
+0022-TCJCI,9/14/2023,Refferal,9/14/2024,Basic,Monthly,9/14/2024,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,12/30/1983,9/14/2024,N,90,2
+0023-HGHWL,6/23/2020,Organic,6/23/2025,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,5/14/1991,,,,
+0023-UYUPN,12/31/2022,Paid,12/31/2025,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,10/6/1977,,,,
+0002-QLDOB,7/13/2023,Refferal,7/13/2025,Basic,Annual,,,8.67,262,24,0,sunita,India,Tamil Nadu,Male,1/17/1987,,,,
+0005-PPIPO,2/13/2021,Refferal,2/13/2025,Premium,Annual,6/2/2023,App keeps crashing,22.33,2020,87,1,Sarla,Nepal,Kathmandu,Female,11/30/1992,4/25/2023,N,15,4
+0007-BNUOC,6/20/2021,Refferal,6/20/2022,Standard,Monthly,,,15.52,1054,44,0,sneha,India,Bihar,Male,3/26/1973,,,,
+0015-KIWCS,3/11/2021,Refferal,3/11/2023,Standard,Annual,7/25/2024,Switched to competitor,14.35,660,97,1,dev,India,Punjab,Male,11/26/1969,7/2/2024,N,32,1
+0023-OVUMZ,7/14/2020,Refferal,7/14/2021,Standard,Annual,,,14.12,1610,49,0,yogesh,India,West Bengal,Male,5/14/1992,,,,
+0041-BWIHU,4/2/2023,Organic,4/2/2025,Standard,Annual,,,16,980,9,0,umesh,India,Rajasthan,Female,1/24/1964,,,,
+0067-YWPLO,2/8/2021,Organic,2/8/2023,Basic,Annual,,,9.87,838,42,0,durga,India,Uttarakhand,Male,3/15/1961,,,,
+0073-KBUEI,2/27/2020,Paid,2/27/2022,Premium,Monthly,4/6/2024,Billing issues,27.9,2432,89,1,sunil,India,Karnataka,Female,12/18/1961,3/8/2024,N,30,5
+0085-UPTZX,11/10/2023,Paid,11/10/2026,Standard,Monthly,,,15.24,676,51,0,sanjay,India,Manipur,Male,4/11/1988,,,,
+0115-NLXYB,3/15/2022,Paid,3/15/2025,Basic,Monthly,,,9.79,445,35,0,keshav,India,West Bengal,Male,3/23/1997,,,,
+0153-WPDCU,5/8/2023,Paid,5/8/2024,Basic,Monthly,,,9.49,475,2,0,pushpa,India,Chhattisgarh,Female,6/27/2007,,,,
+0158-DZGQD,3/29/2020,Organic,3/29/2022,Basic,Monthly,,,6.33,459,46,0,lalita,India,Jharkhand,Male,8/11/1977,,,,
+0174-PRXUU,11/22/2021,Paid,11/22/2022,Standard,Monthly,,,18.86,819,23,0,preeti,India,Madhya Pradesh,Female,8/19/1958,5/8/2024,Y,29,5
+0178-DKJNB,1/25/2021,Organic,1/25/2024,Premium,Monthly,,,25.25,1731,15,0,shanti,India,Manipur,Male,7/17/1967,1/30/2022,N,62,2
+0183-ZYCNL,6/9/2021,Organic,6/9/2024,Standard,Monthly,,,12.82,1221,18,0,bal,India,Odisha,Female,8/28/1958,,,,
+0195-DVZFG,1/23/2023,Organic,1/23/2027,Standard,Annual,,,13.07,782,3,0,kiran,India,Uttarakhand,Female,11/1/1986,,,,
+0215-GSVJV,2/20/2023,Paid,2/20/2026,Premium,Annual,,,26.65,851,48,0,sanjay,India,Uttarakhand,Male,6/6/1974,,,,
+0217-SOJRQ,2/27/2021,Organic,2/27/2025,Standard,Annual,,,17.94,1546,35,0,madan,India,Maharashtra,Female,4/16/1996,8/30/2021,N,60,2
+0221-DVXXV,7/3/2023,Organic,7/3/2027,Premium,Annual,,,20.74,801,36,0,madan,India,Meghalaya,Female,12/1/1963,,,,
+0226-HZJCP,2/15/2023,Refferal,2/15/2025,Standard,Annual,,,15.09,807,12,0,anita,India,Gujarat,Female,7/13/1968,8/24/2023,N,33,3
+0226-ZCZOV,6/2/2023,Paid,6/2/2025,Premium,Monthly,,,27.69,1295,34,0,anita,India,Odisha,Male,12/17/1983,,,,
+0235-YYOCH,9/2/2020,Paid,9/2/2021,Standard,Annual,,,18.49,1013,48,0,kusum,India,Kerala,Male,8/21/1976,,,,
+0236-KJYGR,10/16/2021,Organic,10/16/2024,Standard,Monthly,,,13.45,739,26,0,gaurav,India,Delhi,Female,5/1/2006,,,,
+0241-WXLUS,6/11/2022,Refferal,6/11/2025,Basic,Monthly,,,9,610,28,0,aarti,India,Kerala,Male,11/13/1968,,,,
+0252-PMVWV,11/24/2020,Organic,11/24/2023,Basic,Annual,,,7.9,782,46,0,maya,India,Karnataka,Male,3/28/1990,3/31/2025,Y,56,3
+0259-UEXFZ,4/22/2021,Paid,4/22/2024,Standard,Annual,,,13.09,877,19,0,seema,India,Meghalaya,Female,1/7/1964,2/21/2025,N,62,1
+0281-RRGIS,9/10/2022,Paid,9/10/2023,Basic,Annual,,,8.72,620,47,0,niranjan,India,Chhattisgarh,Male,5/18/2003,8/1/2023,N,27,1
+0285-MRMRY,3/14/2022,Paid,3/14/2025,Standard,Monthly,,,13,687,3,0,devendra,India,Himachal Pradesh,Male,4/6/2001,,,,
+0287-UVUNN,8/16/2022,Refferal,8/16/2024,Premium,Monthly,,,21.14,1488,45,0,radha,India,Assam,Female,6/9/1984,,,,
+0329-TZCRN,6/19/2023,Paid,6/19/2026,Basic,Monthly,,,9.79,385,43,0,sanjay,India,Assam,Female,9/1/1965,,,,
+0336-MPGLR,7/29/2021,Organic,7/29/2023,Standard,Monthly,,,13.78,1292,53,0,veena,Nepal,Kathmandu,Female,7/4/1987,,,,
+0342-QNOIX,3/27/2022,Organic,3/27/2024,Premium,Monthly,,,27,1306,40,0,Sanjay,India,Nagaland,Female,7/2/1991,,,,
+0347-QEGQT,2/27/2020,Organic,2/27/2021,Basic,Monthly,,,9.58,758,33,0,seema,India,Goa,Female,8/2/1992,12/4/2020,N,68,1
+0373-ECGII,7/30/2020,Refferal,7/30/2023,Standard,Monthly,12/8/2024,Billing issues,18.88,1220,99,1,kusum,India,Rajasthan,Female,8/11/1971,10/25/2024,Y,34,1
+0374-PJAZB,6/11/2022,Organic,6/11/2023,Standard,Monthly,,,17.12,1118,27,0,jyoti,India,West Bengal,Male,6/30/1976,,,,
+0387-MGIDA,10/11/2022,Organic,10/11/2025,Basic,Annual,,,9.44,350,37,0,sundar,India,Gujarat,Female,11/2/1960,,,,
+0412-MGNPV,9/9/2023,Refferal,9/9/2025,Standard,Monthly,,,17.83,664,27,0,sanjay,India,Meghalaya,Female,8/16/1996,,,,
+0432-KTXUR,7/16/2021,Paid,7/16/2022,Premium,Annual,,,27.45,2419,19,0,om,India,Maharashtra,Male,6/10/2005,10/11/2024,N,52,3
+0434-LLUCQ,1/29/2023,Paid,1/29/2026,Basic,Annual,,,9.85,621,23,0,Sarla,India,Jharkhand,Female,1/18/1975,,,,
+0435-YHJFC,8/22/2022,Refferal,8/22/2026,Premium,Annual,,,24.94,1689,81,0,anita,India,Himachal Pradesh,Female,4/5/1987,,,,
+0440-NIXEZ,8/6/2020,Paid,8/6/2023,Basic,Monthly,,,7.89,800,52,0,rangadevi,India,Bihar,Male,5/21/1993,,,,
+0479-LZIEN,12/2/2020,Refferal,12/2/2023,Premium,Monthly,,,27,2114,29,0,vidya,India,Himachal Pradesh,Female,11/19/1999,,,,
+0481-RKSLU,7/15/2021,Paid,7/15/2023,Premium,Monthly,,,25.54,1949,51,0,subhash,India,Jharkhand,Female,6/27/1983,,,,
+0486-AKEHI,12/16/2021,Organic,12/16/2023,Basic,Monthly,,,8.47,584,30,0,sundar,India,Kerala,Female,1/24/1998,,,,
+0500-XGFYD,12/28/2020,Paid,12/28/2021,Basic,Monthly,,,8.13,672,28,0,neha,India,Kerala,Female,6/23/1995,,,,
+0502-OHYUN,4/20/2023,Paid,4/20/2024,Standard,Monthly,,,13.51,752,18,0,devendra,India,Nagaland,Female,3/18/1987,,,,
+0504-BVNNZ,7/11/2022,Organic,7/11/2023,Premium,Monthly,,,22.41,1326,17,0,krishan,India,Odisha,Female,4/6/1966,,,,
+0506-HKABZ,1/26/2022,Paid,1/26/2023,Premium,Monthly,,,21.65,1856,37,0,kanta,India,Tripura,Male,9/12/1985,,,,
+0516-ANVAU,7/24/2023,Paid,7/24/2026,Standard,Annual,,,14.52,588,18,0,sushma,India,Himachal Pradesh,Female,1/1/1995,,,,
+0523-EKQVQ,2/27/2021,Organic,2/27/2024,Premium,Monthly,,,26.49,2731,39,0,niranjan,India,Gujarat,Male,2/23/1993,,,,
+0530-QHTXX,11/20/2021,Paid,11/20/2024,Standard,Monthly,8/30/2025,App keeps crashing,18.43,1077,64,1,kishore,India,Maharashtra,Female,6/16/1974,8/4/2025,Y,1,2
+0531-MGENO,9/16/2022,Organic,9/16/2025,Basic,Monthly,,,9.79,427,35,0,gaurav,India,Goa,Male,6/17/1965,6/5/2023,N,43,1
+0554-XIBNM,10/11/2023,Organic,10/11/2024,Premium,Annual,,,20.52,592,15,0,asha,India,West Bengal,Female,6/7/1958,,,,
+0565-RLHDS,8/24/2022,Organic,8/24/2026,Standard,Annual,,,15.47,1045,16,0,vinod,India,Uttar Pradesh,Female,2/26/1965,,,,
+0578-SUVQQ,6/1/2023,Paid,6/1/2027,Premium,Annual,,,26.39,1484,40,0,suresh,India,Punjab,Female,8/30/1977,,,,
+0593-RHQOE,10/11/2023,Refferal,10/11/2026,Basic,Monthly,12/4/2025,Not enough content,6.29,111,71,1,niranjan,India,West Bengal,Female,11/15/2007,11/21/2025,N,24,4
+0631-ULCJR,10/4/2020,Refferal,10/4/2022,Basic,Annual,8/12/2024,Technical issues,6.6,503,96,1,neha,India,Meghalaya,Female,6/26/1996,,,,
+0639-EQXZN,12/29/2022,Organic,12/29/2026,Standard,Annual,,,17.83,939,53,0,preeti,India,Tamil Nadu,Male,4/18/1970,,,,
+0640-TNGXA,2/21/2022,Refferal,2/21/2024,Standard,Monthly,,,13,824,45,0,brij,India,Bihar,Male,1/18/1979,5/21/2025,Y,55,5
+0651-FWFSI,9/7/2021,Paid,9/7/2023,Premium,Monthly,,,23.25,1421,51,0,hari,India,Delhi,Female,11/18/1970,,,,
+0661-GWMRA,1/31/2023,Organic,1/31/2027,Standard,Annual,,,14.3,812,19,0,kamala,India,Maharashtra,Male,4/30/1993,3/28/2023,N,77,3
+0670-SZFOA,6/14/2023,Paid,6/14/2026,Standard,Monthly,,,15.57,789,35,0,sarla,India,Uttarakhand,Female,7/9/1978,,,,
+0678-YGTSD,7/26/2022,Paid,7/26/2026,Basic,Annual,,,9.79,368,9,0,Madan,India,Karnataka,Female,3/6/1998,,,,
+0680-ZRCIT,5/11/2022,Paid,5/11/2024,Standard,Monthly,,,16.08,843,19,0,sundar,India,Rajasthan,Male,8/1/1982,,,,
+0712-TCKYS,10/18/2020,Organic,10/18/2021,Standard,Monthly,,,14.67,1577,16,0,Raman,India,Delhi,Male,5/2/1962,3/26/2025,N,78,1
+0713-UGRPQ,2/18/2021,Refferal,2/18/2025,Standard,Annual,,,15.36,764,35,0,maya,India,Haryana,Male,2/27/1958,,,,
+0714-MTFFD,10/4/2023,Paid,10/4/2024,Basic,Monthly,8/23/2024,No longer needed,7.92,286,81,1,dharam,India,Manipur,Male,3/17/1989,8/16/2024,N,5,1
+0722-TBCYS,4/14/2020,Organic,4/14/2022,Basic,Monthly,,,8.14,865,48,0,suresh,India,Gujarat,Female,9/11/1958,,,,
+0728-OSPAT,3/7/2023,Paid,3/7/2025,Standard,Monthly,5/30/2024,Billing issues,13,520,60,1,sunaina,India,Punjab,Female,10/12/1977,5/13/2024,N,26,1
+0759-ZQZTY,1/17/2022,Refferal,1/17/2023,Standard,Monthly,9/18/2023,Network coverage issues,12.63,452,85,1,brij,India,Rajasthan,Male,5/11/1980,,,,
+0765-WCSKB,3/15/2021,Paid,3/15/2024,Premium,Monthly,8/10/2024,No longer needed,26.71,1247,62,1,geeta,India,Delhi,Female,12/22/1991,7/17/2024,Y,24,5
+0768-MASGA,1/23/2020,Organic,1/23/2022,Premium,Annual,,,27.11,1757,55,0,raman,India,Manipur,Male,10/31/1965,,,,
+0781-TKHZC,1/31/2022,Paid,1/31/2024,Standard,Monthly,,,12.94,585,8,0,shiva,India,Assam,Female,10/29/2003,,,,
+0784-UQLJP,11/9/2023,Paid,11/9/2026,Premium,Annual,,,26.19,671,3,0,meena,India,Tripura,Female,9/9/1973,,,,
+0788-CMXYS,11/1/2021,Refferal,11/1/2022,Standard,Annual,,,17.04,838,2,0,kiran,India,Bihar,Female,7/16/2001,,,,
+0835-FEDHB,11/23/2022,Paid,11/23/2025,Premium,Monthly,,,27.25,1661,32,0,kishore,India,Madhya Pradesh,Female,7/30/1991,,,,
+0837-YXTSH,1/26/2020,Paid,1/26/2022,Standard,Monthly,,,19,1253,9,0,usha,India,Goa,Male,6/6/1970,,,,
+0849-FCMQO,10/23/2022,Organic,10/23/2025,Premium,Monthly,,,20.22,1371,44,0,sarita,India,Rajasthan,Female,6/24/2005,,,,
+0864-PFLIS,10/3/2020,Refferal,10/3/2021,Basic,Annual,,,9.85,784,53,0,sushma,India,Rajasthan,Male,4/26/1975,5/22/2025,N,82,2
+0873-BDJHQ,7/9/2020,Paid,7/9/2022,Basic,Monthly,,,10,563,10,0,aarti,India,Odisha,Male,3/24/1971,,,,
+0929-BNBNT,10/6/2022,Paid,10/6/2026,Standard,Annual,,,15.44,702,51,0,anita,India,Uttarakhand,Male,7/18/1978,,,,
+0935-RDWCV,12/11/2022,Paid,12/11/2024,Basic,Monthly,,,6.27,217,12,0,rekha,India,Chhattisgarh,Female,2/17/1997,,,,
+0939-SIWQH,7/20/2021,Refferal,7/20/2024,Premium,Monthly,,,20.8,1092,6,0,manju,India,Uttar Pradesh,Female,7/15/1980,,,,
+0942-CJFQL,10/11/2020,Paid,10/11/2022,Premium,Annual,,,21,1980,45,0,shobha,India,Karnataka,Female,10/15/1995,9/15/2025,N,71,3
+0947-AVWVD,1/22/2021,Paid,1/22/2024,Standard,Annual,,,18.53,1892,32,0,babita,India,Delhi,Male,8/16/1989,6/20/2021,Y,35,5
+0959-REUGF,7/19/2020,Organic,7/19/2023,Basic,Monthly,,,7.93,444,2,0,balram,India,Maharashtra,Female,8/8/2005,8/3/2021,Y,62,3
+0968-BFWHE,10/25/2022,Paid,10/25/2024,Basic,Monthly,6/6/2024,Moved to different city,6.81,327,90,1,sunita,India,Meghalaya,Female,3/11/1966,5/18/2024,Y,22,5
+0970-YDBOG,5/15/2023,Paid,5/15/2026,Premium,Monthly,7/23/2023,Network coverage issues,22.06,687,91,1,poonam,India,Tamil Nadu,Female,11/11/1972,6/12/2023,N,28,3
+0974-LALQA,11/25/2023,Organic,11/25/2024,Premium,Monthly,,,24.84,713,45,0,Dilip,India,Uttarakhand,Female,2/15/1979,1/30/2025,N,75,2
+0999-SAATS,9/28/2022,Refferal,9/28/2023,Premium,Monthly,,,25.62,1125,24,0,savita,India,Himachal Pradesh,Female,12/19/2006,,,,
+1003-CWHSY,5/1/2023,Refferal,5/1/2026,Premium,Monthly,,,22.58,1176,18,0,sneha,India,Madhya Pradesh,Female,2/14/2003,,,,
+1009-PQHNS,6/17/2023,Paid,6/17/2026,Basic,Monthly,,,6.46,201,44,0,raman,India,Maharashtra,Male,3/23/1990,,,,
+1011-OTGJX,11/1/2020,Paid,11/1/2023,Standard,Annual,,,13.46,1473,7,0,kavya,India,Tamil Nadu,Male,11/23/2000,5/31/2025,N,27,5
+1012-OEXKO,10/10/2022,Refferal,10/10/2024,Premium,Monthly,,,21.86,1292,42,0,raghav,India,Tripura,Male,5/1/1969,,,,
+1025-GEUZQ,4/1/2020,Paid,4/1/2021,Premium,Monthly,,,26.74,1524,24,0,rangadevi,India,Goa,Female,8/5/1986,,,,
+1026-TXETQ,12/17/2020,Paid,12/17/2023,Standard,Monthly,,,18.2,1100,4,0,shanti,India,Bihar,Male,1/11/1958,,,,
+1028-VEEIC,10/14/2020,Refferal,10/14/2023,Premium,Monthly,,,25.01,1878,6,0,brij,India,Manipur,Female,10/30/2005,,,,
+1042-MHQBY,6/26/2021,Organic,6/26/2022,Standard,Annual,,,17.17,1370,15,0,vinod,India,Uttar Pradesh,Female,4/20/1987,,,,
+1046-KAHWZ,10/3/2023,Refferal,10/3/2024,Premium,Monthly,,,22.15,1114,22,0,Tejendra,India,Rajasthan,Male,10/23/1962,,,,
+1060-MVBSR,12/31/2021,Organic,12/31/2024,Standard,Annual,,,14.33,956,48,0,manju,India,Karnataka,Female,2/29/1984,,,,
+1076-XEHOI,3/16/2021,Refferal,3/16/2022,Basic,Annual,,,7.23,387,44,0,rangadevi,India,Himachal Pradesh,Male,12/6/1989,,,,
+1111-VXMTX,9/2/2023,Organic,9/2/2024,Basic,Annual,,,7.74,207,11,0,devendra,India,Karnataka,Male,3/5/1986,,,,
+1123-KNHOJ,6/10/2022,Organic,6/10/2024,Premium,Monthly,,,24.53,1298,4,0,sunil,India,Haryana,Female,6/22/1989,,,,
+1132-LUTOU,5/28/2023,Paid,5/28/2026,Standard,Monthly,,,17.59,819,33,0,urmila,India,Punjab,Female,2/26/1989,,,,
+1137-DJJJV,5/18/2022,Organic,5/18/2026,Standard,Annual,,,13.94,622,41,0,shobha,India,Odisha,Female,7/15/1975,,,,
+1145-ZVNLI,8/5/2022,Refferal,8/5/2025,Standard,Annual,,,14.7,720,14,0,keshav,India,Karnataka,Male,1/1/1975,,,,
+1152-VMZFR,10/21/2023,Paid,10/21/2024,Basic,Monthly,,,7,219,20,0,urmila,India,Jharkhand,Male,1/19/1981,,,,
+1173-ZUPUJ,12/5/2020,Organic,12/5/2024,Standard,Annual,,,14.54,1260,24,0,ramesh,India,Nagaland,Female,8/4/2002,,,,
+1174-LDXIQ,4/26/2021,Paid,4/26/2024,Premium,Annual,,,26.37,2040,10,0,vinod,India,Rajasthan,Female,10/8/1989,,,,
+1189-XJKRL,1/31/2023,Paid,1/31/2024,Premium,Monthly,7/7/2023,Slow internet speed,23.74,714,90,1,satish,India,Jharkhand,Male,11/19/1982,6/9/2023,Y,19,2
+1194-IDRSS,5/5/2021,Organic,5/5/2024,Standard,Annual,,,16.38,1231,37,0,shanti,India,Rajasthan,Female,5/8/1974,7/2/2024,Y,82,2
+1195-OMAIY,7/8/2022,Refferal,7/8/2023,Standard,Annual,,,15.09,630,24,0,nisha,India,Uttar Pradesh,Male,2/22/1985,,,,
+1202-WGJYQ,4/21/2023,Paid,4/21/2025,Basic,Monthly,,,9.43,526,32,0,ashok,India,Haryana,Male,10/22/1970,8/20/2023,N,27,3
+1204-SCQFR,2/4/2022,Paid,2/4/2023,Standard,Monthly,,,13.93,1014,26,0,keshav,India,Assam,Male,7/10/1990,6/10/2025,Y,37,5
+1206-SUTPW,8/21/2022,Refferal,8/21/2024,Basic,Monthly,,,9.54,575,31,0,ravi,India,Delhi,Female,9/23/1961,,,,
+1225-RWURP,1/4/2022,Organic,1/4/2023,Premium,Monthly,5/26/2024,Network coverage issues,23.41,1103,82,1,savita,India,Maharashtra,Female,10/29/1995,5/2/2024,Y,18,5
+1228-MKVTD,10/11/2021,Refferal,10/11/2022,Basic,Monthly,,,8.6,523,61,0,naresh,India,Goa,Male,6/10/1992,,,,
+1231-QOGBQ,9/27/2022,Organic,9/27/2026,Premium,Annual,,,25.5,1142,41,0,kamala,India,Kerala,Male,5/15/2002,,,,
+1236-YDUWD,12/16/2022,Refferal,12/16/2023,Standard,Monthly,,,14.37,930,23,0,kusum,India,Manipur,Female,12/24/1968,10/12/2025,Y,21,1
+1252-PVOPR,6/14/2022,Paid,6/14/2025,Standard,Annual,1/29/2024,Moved to different city,12.3,320,84,1,om,India,Punjab,Female,3/9/2004,12/26/2023,Y,22,2
+1269-NWZRR,7/25/2020,Paid,7/25/2024,Premium,Annual,,,24.03,2302,27,0,tarun,India,Gujarat,Female,8/14/1988,,,,
+1270-XWRSH,1/1/2022,Paid,1/1/2023,Premium,Annual,12/23/2025,Network coverage issues,21.61,851,79,1,harish,India,Himachal Pradesh,Male,8/5/1998,11/30/2025,N,8,1
+1275-MKBWY,12/26/2023,Refferal,12/26/2026,Basic,Annual,,,9.91,486,6,0,nisha,India,Madhya Pradesh,Male,7/5/1981,5/15/2025,N,71,3
+1276-RSGGQ,5/17/2023,Refferal,5/17/2025,Basic,Monthly,,,8.79,329,23,0,amit,India,Goa,Female,11/22/2004,10/30/2024,Y,82,4
+1276-TEBLK,8/8/2021,Paid,8/8/2024,Basic,Monthly,,,8,575,20,0,bal,India,West Bengal,Male,8/17/1978,11/10/2022,Y,26,1
+1295-RLGCE,4/8/2023,Refferal,4/8/2027,Standard,Annual,,,17.43,720,54,0,sneha,India,Himachal Pradesh,Female,10/26/2002,,,,
+1300-EMXZS,7/22/2023,Refferal,7/22/2024,Standard,Annual,,,15.74,478,23,0,priya,India,Nagaland,Female,6/17/1986,8/26/2025,N,68,1
+1317-TYDRH,4/3/2023,Paid,4/3/2026,Basic,Annual,1/5/2024,Not enough content,8.13,280,71,1,rekha,India,Assam,Male,1/11/1997,1/1/2024,Y,6,5
+1329-RCCSP,1/13/2021,Paid,1/13/2025,Premium,Annual,4/28/2023,Poor customer service,21.2,1703,91,1,ramesh,India,Meghalaya,Female,6/12/2002,3/27/2023,Y,16,1
+1336-UTLCL,9/6/2020,Organic,9/6/2023,Premium,Monthly,,,22.28,1719,38,0,om,India,Odisha,Female,4/20/1996,,,,
+1338-LTHLO,11/24/2022,Paid,11/24/2023,Standard,Monthly,11/15/2025,Technical issues,16,650,69,1,asha,India,Jharkhand,Male,7/26/1974,11/12/2025,N,18,1
+1351-VHVSF,5/6/2023,Organic,5/6/2025,Standard,Annual,,,13.79,680,3,0,hemant,India,Manipur,Male,8/13/1987,,,,
+1381-PSXYH,8/4/2023,Organic,8/4/2026,Basic,Monthly,8/2/2025,Poor customer service,6.73,177,98,1,jyoti,India,Meghalaya,Male,9/8/1972,7/19/2025,N,17,1
+1399-BSRBT,5/27/2022,Refferal,5/27/2024,Basic,Monthly,,,6.41,360,40,0,rekha,India,Punjab,Female,8/4/2003,,,,
+1399-KUWKB,9/10/2023,Paid,9/10/2025,Premium,Annual,,,24,1121,8,0,sundar,India,Bihar,Male,4/8/1978,,,,
+1402-ANTNR,2/27/2020,Refferal,2/27/2021,Standard,Monthly,,,14.69,1567,30,0,sunil,India,Karnataka,Female,3/29/1986,3/22/2023,N,71,5
+1402-HHFIR,6/11/2020,Paid,6/11/2022,Standard,Monthly,,,15.53,945,2,0,rahul,Nepal,Kathmandu,Male,10/23/1999,4/23/2023,N,25,3
+1406-APVYB,1/27/2020,Paid,1/27/2022,Premium,Monthly,,,25.36,1605,31,0,dinesh,India,Bihar,Female,5/31/1967,,,,
+1406-LWEAV,5/6/2020,Paid,5/6/2022,Basic,Monthly,,,6.91,716,54,0,indira,India,Chhattisgarh,Female,12/18/1990,,,,
+1417-FEFWB,5/15/2023,Paid,5/15/2026,Basic,Annual,,,9.04,326,42,0,ramkumar,India,Rajasthan,Female,3/12/1990,9/5/2024,N,23,3
+1432-ECKVM,4/26/2023,Organic,4/26/2024,Basic,Monthly,,,6.46,190,30,0,lata,India,Meghalaya,Male,4/5/1974,,,,
+1446-CENVR,10/22/2020,Refferal,10/22/2021,Basic,Monthly,4/24/2024,Network coverage issues,6.09,339,83,1,manju,India,Meghalaya,Female,5/16/1977,4/18/2024,Y,18,2
+1452-DNHEW,6/2/2023,Paid,6/2/2025,Basic,Monthly,,,8.94,484,11,0,dharam,India,Bihar,Female,3/17/2006,,,,
+1473-CMTLA,11/17/2020,Organic,11/17/2021,Standard,Annual,,,12.3,1238,1,0,kavita,India,Kerala,Male,11/18/2006,,,,
+1478-KVEBK,5/17/2021,Paid,5/17/2023,Basic,Monthly,,,9.25,756,15,0,gopal,India,Rajasthan,Female,4/30/2004,,,,
+1493-COLHJ,2/19/2022,Organic,2/19/2024,Basic,Monthly,,,7,342,51,0,preeti,India,Meghalaya,Female,7/2/1968,,,,
+1504-DCVCN,3/1/2022,Paid,3/1/2023,Premium,Monthly,,,25,2008,47,0,rahul,India,Assam,Female,3/31/1977,3/22/2024,N,25,1
+1529-RSQIO,3/7/2022,Refferal,3/7/2024,Standard,Monthly,,,12.07,579,13,0,ramesh,India,West Bengal,Male,1/1/1982,,,,
+1550-STULI,7/26/2020,Paid,7/26/2021,Premium,Annual,,,21.17,2188,6,0,sunil,India,Tripura,Female,1/15/1996,,,,
+1570-KSFGX,7/29/2022,Organic,7/29/2024,Standard,Annual,,,17.56,797,40,0,rangadevi,India,Meghalaya,Female,5/14/1962,11/19/2024,N,33,2
+1573-AEWYI,10/3/2022,Organic,10/3/2023,Basic,Monthly,2/23/2024,No longer needed,7.32,235,85,1,radha,India,Jharkhand,Female,7/21/1995,,,,
+1583-UPFFR,4/11/2021,Refferal,4/11/2023,Standard,Monthly,8/11/2024,Payment failed repeatedly,15.33,1090,67,1,ramesh,India,Rajasthan,Male,2/27/1987,7/26/2024,Y,3,5
+1601-ROUYY,7/8/2022,Organic,7/8/2024,Standard,Monthly,,,16.12,768,44,0,kiran,India,Chhattisgarh,Male,4/28/1995,,,,
+1613-LHDFX,8/9/2020,Paid,8/9/2022,Premium,Monthly,4/15/2025,Found better offer elsewhere,20.52,689,76,1,kavita,India,Uttar Pradesh,Female,12/24/1986,3/18/2025,Y,5,4
+1618-DRRWI,12/15/2021,Organic,12/15/2023,Standard,Monthly,1/1/2025,Family plan cancelled,17.09,953,90,1,madan,India,Bihar,Male,10/30/1983,12/24/2024,N,27,1
+1620-SECUN,5/25/2021,Paid,5/25/2022,Basic,Annual,,,8.29,406,35,0,preeti,India,Goa,Female,12/23/1981,,,,
+1624-GHION,10/19/2021,Paid,10/19/2024,Standard,Monthly,,,13.92,720,40,0,Priya,India,Nagaland,Male,1/26/1983,,,,
+1658-XDBDP,11/14/2022,Refferal,11/14/2024,Basic,Monthly,,,9.73,569,43,0,varsha,India,Tripura,Male,10/30/1980,,,,
+1661-SACQW,12/18/2021,Refferal,12/18/2022,Basic,Annual,11/5/2024,No longer needed,8.81,380,65,1,sunita,India,Nagaland,Female,8/21/1993,10/5/2024,Y,18,2
+1665-NROYO,11/28/2023,Paid,11/28/2026,Basic,Annual,3/17/2024,Payment failed repeatedly,7.15,199,72,1,preeti,India,Nagaland,Female,11/25/1996,2/21/2024,Y,15,5
+1669-JGPJV,5/30/2020,Paid,5/30/2023,Basic,Monthly,,,9.23,993,51,0,reema,India,Tamil Nadu,Female,4/26/1993,,,,
+1689-ELUOW,5/24/2021,Paid,5/24/2025,Basic,Annual,9/16/2024,Billing issues,8.35,356,97,1,sundar,India,Meghalaya,Male,8/16/1975,9/7/2024,N,17,4
+1689-SMUCQ,4/19/2021,Organic,4/19/2023,Standard,Monthly,,,15.9,783,33,0,lata,India,Manipur,Female,3/25/2006,,,,
+1691-MUUUY,8/14/2020,Refferal,8/14/2021,Standard,Annual,,,13.98,1073,21,0,maya,India,Tamil Nadu,Male,3/1/1973,7/29/2025,Y,73,4
+1702-LYGEQ,9/21/2020,Paid,9/21/2023,Basic,Annual,,,6.69,496,22,0,shobha,India,Tamil Nadu,Male,11/19/1999,,,,
+1715-KSECH,6/14/2023,Refferal,6/14/2026,Standard,Monthly,,,12.6,384,7,0,indira,India,Tamil Nadu,Male,8/2/2002,,,,
+1746-HNEMG,3/29/2023,Organic,3/29/2025,Premium,Annual,,,24.24,1224,21,0,sundar,India,Kerala,Female,10/2/2000,7/2/2024,N,28,3
+1788-HEMUO,4/20/2022,Paid,4/20/2024,Standard,Annual,,,18.64,905,10,0,mina,India,Manipur,Female,8/28/1975,12/5/2022,N,71,1
+1790-UTVYJ,4/26/2022,Organic,4/26/2024,Basic,Monthly,,,9.17,556,20,0,ashok,India,Uttarakhand,Male,3/18/1961,,,,
+1798-CFYZT,3/25/2023,Refferal,3/25/2026,Standard,Monthly,,,15.05,897,54,0,Bal,India,Assam,Female,1/5/1994,,,,
+1810-LUTTO,3/24/2023,Organic,3/24/2024,Standard,Annual,,,15.99,672,5,0,bhupendra,India,Odisha,Male,6/22/1987,4/17/2024,Y,29,4
+1811-CYWIG,2/6/2020,Organic,2/6/2022,Premium,Monthly,,,21.91,2136,78,0,ramkumar,India,Karnataka,Female,9/5/1995,,,,
+1815-XISZX,4/5/2023,Refferal,4/5/2024,Premium,Monthly,11/8/2024,Poor streaming quality,23.24,980,88,1,kusum,India,Karnataka,Male,4/28/1979,10/2/2024,Y,20,2
+1847-RCBXV,11/8/2020,Organic,11/8/2022,Premium,Monthly,,,27.5,1683,18,0,manisha,India,Odisha,Female,12/16/2006,,,,
+1849-EKJZG,5/19/2021,Refferal,5/19/2023,Premium,Annual,,,21.92,1402,7,0,varsha,India,Goa,Female,7/28/1969,,,,
+1876-CYUYI,2/25/2022,Organic,2/25/2026,Standard,Annual,,,13.38,1038,45,0,keshav,India,Tamil Nadu,Female,9/6/1976,,,,
+1889-AVKXN,8/1/2022,Paid,8/1/2024,Premium,Annual,,,24.88,1325,38,0,raman,Nepal,Kathmandu,Female,8/15/1993,,,,
+1903-ZNZUD,8/17/2023,Organic,8/17/2024,Basic,Monthly,,,5.99,267,53,0,geeta,India,Chhattisgarh,Male,12/21/1982,,,,
+1924-OBXJX,4/13/2020,Paid,4/13/2022,Premium,Annual,,,22.96,1578,5,0,aarti,India,Tamil Nadu,Male,4/13/1960,,,,
+1924-RSUQG,6/30/2021,Organic,6/30/2024,Basic,Monthly,,,6.12,446,32,0,dinesh,India,Manipur,Male,5/11/1987,,,,
+1932-CBPUW,11/24/2020,Paid,11/24/2024,Basic,Annual,1/23/2023,Network coverage issues,7.62,316,64,1,dilip,India,Uttarakhand,Male,8/23/1993,1/1/2023,N,32,1
+1957-AWWHG,1/28/2021,Paid,1/28/2024,Standard,Monthly,9/27/2025,Found better offer elsewhere,17.03,1229,71,1,suresh,India,Telangana,Female,3/23/1967,9/15/2025,N,10,4
+1969-IDQNW,1/12/2022,Organic,1/12/2025,Basic,Monthly,,,7.13,303,47,0,yogesh,India,Meghalaya,Male,10/18/1976,,,,
+1988-DRRKJ,1/28/2020,Organic,1/28/2023,Basic,Monthly,,,7.12,658,55,0,kavya,India,Tamil Nadu,Female,6/28/1967,,,,
+1988-VKATD,1/13/2021,Organic,1/13/2022,Basic,Monthly,,,8.38,526,41,0,sunaina,India,Punjab,Female,10/29/2002,,,,
+1994-MEIKN,9/7/2022,Paid,9/7/2023,Standard,Monthly,,,12.78,729,33,0,bhupendra,India,Goa,Male,6/30/1984,,,,
+2000-OLSCF,3/17/2022,Refferal,3/17/2025,Basic,Annual,,,7.75,504,39,0,vinod,India,Uttar Pradesh,Male,5/17/1967,,,,
+2007-WWCPM,10/15/2021,Paid,10/15/2025,Basic,Annual,,,7.95,447,17,0,sneha,India,Maharashtra,Male,1/12/1969,,,,
+2015-TJPGT,6/19/2020,Organic,6/19/2021,Standard,Annual,,,16.52,1009,15,0,sarita,India,Uttarakhand,Male,7/1/1989,3/17/2026,N,72,4
+2048-KMYYS,2/26/2022,Organic,2/26/2025,Standard,Monthly,,,14.67,883,40,0,Maya,India,Uttar Pradesh,Male,2/12/1984,,,,
+2070-BDIBQ,3/14/2022,Refferal,3/14/2024,Basic,Annual,,,7.22,506,64,0,neha,India,Meghalaya,Female,1/26/2005,,,,
+2120-NTRTZ,7/27/2022,Paid,7/27/2024,Basic,Annual,,,9.17,493,20,0,sunita,India,Manipur,Male,5/5/1986,,,,
+2138-LAPUK,2/6/2020,Refferal,2/6/2022,Basic,Monthly,,,6.87,551,25,0,asha,India,Bihar,Female,10/16/2003,7/7/2023,N,23,3
+2142-AVYAU,1/8/2021,Organic,1/8/2023,Premium,Annual,,,27.78,2275,44,0,niranjan,India,West Bengal,Male,1/17/1964,,,,
+2160-XHRUN,9/9/2022,Paid,9/9/2023,Basic,Monthly,1/19/2023,Moved to different city,8.25,342,69,1,amit,India,Uttarakhand,Female,9/11/1964,12/6/2022,Y,15,4
+2161-WPHDH,2/10/2022,Refferal,2/10/2023,Standard,Monthly,,,12.75,943,53,0,shiva,India,Telangana,Female,9/3/2006,,,,
+2168-UZPPB,11/1/2020,Organic,11/1/2023,Standard,Monthly,8/17/2023,Found better offer elsewhere,18.13,793,72,1,Ritu,India,Assam,Female,6/15/1999,7/12/2023,N,1,1
+2174-IAUFX,6/3/2020,Organic,6/3/2021,Basic,Annual,,,9.58,846,25,0,seema,India,Chhattisgarh,Female,3/11/1996,,,,
+2185-YFAFB,4/5/2023,Paid,4/5/2025,Premium,Annual,,,23.42,1036,17,0,usha,India,Chhattisgarh,Male,5/6/2007,,,,
+2194-JZOQS,5/22/2021,Paid,5/22/2023,Standard,Monthly,,,15.53,1349,14,0,pushpa,India,Karnataka,Male,12/16/1980,1/9/2024,N,51,1
+2198-QHHCW,10/18/2022,Refferal,10/18/2024,Standard,Monthly,,,13.74,770,14,0,ramkumar,India,Tripura,Male,12/22/1989,11/27/2023,Y,40,5
+2200-MCCAZ,3/7/2022,Paid,3/7/2023,Basic,Monthly,,,6.77,479,33,0,geeta,India,Uttar Pradesh,Female,11/18/1971,,,,
+2224-ADRZU,12/21/2022,Paid,12/21/2025,Basic,Annual,,,6.49,284,29,0,veena,India,Odisha,Female,1/30/1958,,,,
+2228-NXVKB,10/8/2021,Refferal,10/8/2023,Standard,Monthly,,,17.72,1016,49,0,govind,India,Tripura,Male,1/30/1965,,,,
+2232-OHRRD,10/3/2022,Paid,10/3/2026,Standard,Annual,,,17.68,790,5,0,ravi,India,Uttarakhand,Male,9/9/1964,,,,
+2239-GAFMT,7/5/2023,Organic,7/5/2026,Standard,Annual,,,14.03,672,25,0,kishore,India,Bihar,Male,5/6/1986,9/11/2023,N,59,4
+2249-MJPDG,2/14/2023,Paid,2/14/2025,Standard,Monthly,,,16.74,1048,3,0,brij,India,Telangana,Male,4/2/1958,,,,
+2262-KWUDH,8/26/2023,Organic,8/26/2024,Standard,Annual,,,13,651,9,0,arun,India,Manipur,Female,1/31/2005,,,,
+2299-UJYRL,3/17/2021,Paid,3/17/2022,Standard,Monthly,2/17/2023,Technical issues,18.51,1040,84,1,dev,India,Uttar Pradesh,Male,11/19/1982,2/1/2023,N,34,3
+2299-VNVIM,9/23/2023,Paid,9/23/2025,Premium,Monthly,,,23.96,640,6,0,kavya,India,Jharkhand,Female,2/17/2007,,,,
+2306-LHONP,6/9/2022,Paid,6/9/2024,Basic,Annual,,,9.25,349,52,0,lata,India,Delhi,Male,6/15/2002,,,,
+2307-RQFSW,6/22/2020,Refferal,6/22/2022,Standard,Monthly,,,13.24,1094,47,0,sushma,India,Odisha,Male,9/22/1961,,,,
+2328-TANUD,2/24/2023,Paid,2/24/2025,Premium,Annual,,,22.89,971,47,0,gopal,India,Jharkhand,Female,6/9/1964,,,,
+2334-BVQIP,6/9/2023,Paid,6/9/2027,Basic,Annual,,,6.42,185,20,0,amit,India,Delhi,Female,10/30/1966,2/20/2024,Y,30,5
+2343-NNDAF,7/20/2020,Paid,7/20/2021,Standard,Annual,,,12.44,1193,11,0,ravi,India,Madhya Pradesh,Female,5/21/1970,,,,
+2359-KQOIY,12/3/2022,Organic,12/3/2024,Standard,Monthly,3/8/2023,Moved to different city,18.43,899,84,1,umesh,India,Manipur,Male,3/20/1987,2/15/2023,N,17,1
+2365-ICSGH,3/1/2023,Paid,3/1/2024,Basic,Monthly,,,7.91,477,61,0,vijay,India,Rajasthan,Female,5/29/1995,,,,
+2376-YKDKN,3/17/2023,Paid,3/17/2025,Basic,Monthly,,,7.24,234,53,0,lata,India,Haryana,Female,4/5/1979,,,,
+2387-NVWHH,4/30/2021,Refferal,4/30/2022,Standard,Monthly,9/14/2023,Found better offer elsewhere,16.94,718,68,1,umesh,India,Bihar,Male,7/7/2006,8/12/2023,Y,8,1
+2388-GQSON,9/8/2023,Paid,9/8/2025,Premium,Monthly,,,24.29,871,13,0,rajendra,India,Assam,Female,11/2/1962,,,,
+2399-XREEB,3/6/2021,Refferal,3/6/2022,Basic,Monthly,,,6.88,429,51,0,kalpana,India,Gujarat,Male,8/15/2003,,,,
+2400-KBTVU,6/19/2020,Refferal,6/19/2023,Basic,Monthly,,,8,444,11,0,anita,India,Himachal Pradesh,Male,10/11/1979,,,,
+2413-ADOLI,10/9/2023,Paid,10/9/2026,Basic,Monthly,,,6.46,261,12,0,rajendra,India,Uttarakhand,Female,5/25/2000,,,,
+2419-PFQHU,8/23/2022,Paid,8/23/2023,Premium,Monthly,,,22,1158,20,0,ramkumar,India,Bihar,Male,1/21/1968,,,,
+2457-ZHDLK,1/27/2021,Paid,1/27/2024,Premium,Annual,,,21.35,1089,45,0,devendra,India,Meghalaya,Male,1/14/1970,,,,
+2466-GGSWF,3/17/2020,Paid,3/17/2021,Basic,Annual,,,9.71,633,7,0,kamala,India,Nagaland,Female,3/6/1960,,,,
+2468-DNKHA,8/25/2020,Paid,8/25/2023,Basic,Annual,,,8.56,612,42,0,rajendra,India,Gujarat,Male,4/11/2005,,,,
+2471-CVOYJ,12/6/2023,Refferal,12/6/2024,Standard,Annual,,,16.05,383,10,0,deepa,India,Jharkhand,Female,10/14/1986,,,,
+2520-HGQNS,10/27/2023,Paid,10/27/2026,Basic,Annual,,,6.45,305,32,0,durga,India,Karnataka,Female,1/7/1966,,,,
+2600-DERTB,5/1/2020,Paid,5/1/2022,Premium,Annual,,,20.13,2091,46,0,manju,India,Gujarat,Male,6/5/1979,,,,
+2601-WCVQU,12/14/2023,Organic,12/14/2024,Basic,Annual,,,9.47,258,15,0,niranjan,India,Goa,Female,11/7/1981,,,,
+2621-PGWZN,10/2/2022,Refferal,10/2/2024,Basic,Monthly,,,8.4,328,53,0,tarun,India,Manipur,Male,9/18/1963,12/4/2022,N,85,5
+2624-YKAXL,11/4/2021,Paid,11/4/2023,Standard,Annual,,,13.26,1094,7,0,ritu,India,Odisha,Male,10/27/2005,12/21/2023,Y,77,3
+2630-RFPWJ,2/17/2022,Paid,2/17/2023,Basic,Annual,,,6.01,304,52,0,dinesh,India,Delhi,Male,12/5/1993,,,,
+2638-JBJNU,4/19/2023,Paid,4/19/2026,Basic,Monthly,,,8.45,269,12,0,vinod,India,Tripura,Male,12/17/1970,,,,
+2666-ZFZLE,11/20/2020,Refferal,11/20/2023,Premium,Annual,,,23.03,2407,49,0,bal,India,Chhattisgarh,Male,1/23/1984,,,,
+2696-CADDZ,11/10/2020,Organic,11/10/2022,Standard,Annual,,,18.8,1925,36,0,vinod,India,Tamil Nadu,Male,2/19/1970,,,,
+2698-NCWWQ,5/27/2020,Organic,5/27/2021,Standard,Monthly,,,17,1350,2,0,bal,India,Maharashtra,Male,4/11/2005,4/14/2025,N,51,2
+2700-DEXWI,5/10/2023,Organic,5/10/2025,Basic,Monthly,,,9.93,406,30,0,ramkumar,India,Goa,Female,8/12/1996,,,,
+2702-KGQVF,1/12/2021,Refferal,1/12/2024,Premium,Monthly,,,23.42,2201,43,0,manju,India,Punjab,Female,4/7/1992,,,,
+2714-EVSBU,5/28/2022,Paid,5/28/2023,Standard,Monthly,,,15.38,1167,14,0,sarla,India,Karnataka,Male,5/9/1973,,,,
+2731-OQCFZ,2/21/2021,Refferal,2/21/2025,Standard,Annual,,,18.2,1862,5,0,subhash,India,Assam,Male,1/25/2002,,,,
+2743-LXAVL,12/13/2022,Paid,12/13/2024,Basic,Monthly,,,7.66,458,47,0,suresh,India,Delhi,Male,1/12/2001,12/9/2025,N,49,3
+2770-KMTZT,6/10/2020,Paid,6/10/2023,Standard,Monthly,,,18.88,1975,20,0,keshav,India,Karnataka,Male,12/22/2001,8/10/2024,N,35,2
+2780-GNIOQ,6/9/2021,Paid,6/9/2023,Standard,Monthly,,,13.76,950,27,0,rahul,India,Uttarakhand,Female,6/11/1992,,,,
+2792-EYZKI,11/1/2020,Organic,11/1/2024,Standard,Annual,,,18.64,1768,56,0,bimla,India,Rajasthan,Female,5/5/1995,,,,
+2812-ODVZQ,4/17/2022,Refferal,4/17/2024,Standard,Annual,,,14,986,46,0,harish,India,Maharashtra,Female,1/13/2001,6/26/2025,N,44,2
+2816-KFRGT,7/25/2023,Paid,7/25/2024,Basic,Annual,,,7.75,420,20,0,dilip,India,Assam,Female,2/17/1991,,,,
+2825-EUUAE,1/12/2022,Paid,1/12/2024,Standard,Annual,,,18.97,1505,55,0,nisha,India,Bihar,Female,12/1/1987,,,,
+2832-SXSWM,11/9/2020,Paid,11/9/2021,Standard,Monthly,,,14.59,1188,10,0,renu,India,Karnataka,Male,9/30/1994,11/7/2024,N,39,2
+2865-DBIVP,2/15/2022,Organic,2/15/2025,Standard,Monthly,,,13.7,837,36,0,mohan,India,Punjab,Male,6/3/1991,,,,
+2865-HRSHD,6/11/2021,Organic,6/11/2022,Standard,Annual,,,12.12,1084,48,0,nisha,India,Nagaland,Male,10/22/1979,,,,
+2869-FVTMD,1/30/2022,Organic,1/30/2025,Basic,Monthly,,,8.13,334,36,0,ramesh,India,Manipur,Male,7/15/1999,,,,
+2907-RMJXJ,12/27/2023,Organic,12/27/2025,Premium,Monthly,2/13/2025,Moved to different city,24.46,427,60,1,maya,India,Goa,Female,2/6/1997,1/6/2025,N,5,1
+2912-BDEBY,9/11/2021,Refferal,9/11/2024,Standard,Monthly,,,12.56,834,44,0,geeta,India,Meghalaya,Male,12/2/1987,,,,
+2917-QAWUM,12/4/2022,Paid,12/4/2024,Standard,Annual,,,13.09,536,48,0,kishore,India,Goa,Female,7/1/1962,2/24/2026,Y,80,3
+2933-YPCRV,1/7/2021,Refferal,1/7/2024,Premium,Monthly,3/11/2024,Payment failed repeatedly,21.83,864,96,1,tejendra,India,Uttar Pradesh,Male,12/11/1976,3/3/2024,N,33,1
+2954-OMJQB,1/31/2022,Paid,1/31/2024,Premium,Monthly,,,20.3,898,31,0,mina,India,Punjab,Female,10/2/1962,,,,
+2994-RQNKS,4/17/2021,Refferal,4/17/2024,Basic,Annual,,,9.04,844,32,0,rangadevi,India,Maharashtra,Male,8/31/1982,,,,
+2996-KHEGN,8/15/2023,Organic,8/15/2025,Premium,Monthly,,,25.71,1384,10,0,babita,Nepal,Kathmandu,Female,5/16/1972,,,,
+3022-GLPCE,6/23/2023,Refferal,6/23/2024,Basic,Annual,,,9.73,558,4,0,umesh,India,Maharashtra,Female,10/31/1970,,,,
+3029-LJOGM,3/30/2021,Organic,3/30/2023,Premium,Annual,,,23.05,2104,7,0,anju,India,Tamil Nadu,Male,5/30/1999,,,,
+3049-FVCLK,1/20/2023,Paid,1/20/2024,Premium,Annual,,,25.25,1286,34,0,durga,India,West Bengal,Male,1/30/1997,,,,
+3050-DAQIU,10/2/2021,Refferal,10/2/2024,Basic,Annual,,,7.86,492,10,0,hari,India,West Bengal,Female,9/6/1996,,,,
+3053-OMZEK,4/11/2020,Paid,4/11/2023,Basic,Monthly,3/16/2023,Poor streaming quality,7.57,525,74,1,neha,India,Kerala,Female,12/23/2000,3/11/2023,Y,14,1
+3086-SAPIK,12/13/2021,Refferal,12/13/2022,Premium,Monthly,2/21/2023,Found better offer elsewhere,24.87,1101,96,1,subhash,India,Goa,Female,8/6/1961,1/13/2023,Y,18,5
+3121-NHIER,11/8/2022,Organic,11/8/2025,Standard,Monthly,,,14.62,795,10,0,kavita,India,Himachal Pradesh,Male,6/2/1976,,,,
+3136-EIZKN,9/8/2020,Refferal,9/8/2022,Basic,Annual,,,7.16,463,53,0,lalita,India,Goa,Female,12/13/1965,,,,
+3149-KTXAZ,9/6/2023,Organic,9/6/2026,Standard,Monthly,,,18.18,793,36,0,usha,India,Uttarakhand,Male,2/18/1965,,,,
+3150-VVYMA,6/7/2020,Paid,6/7/2022,Basic,Annual,,,7.5,622,20,0,subhash,India,Meghalaya,Male,4/22/1968,,,,
+3171-ZSCWY,7/26/2021,Refferal,7/26/2023,Standard,Annual,,,15.55,1174,32,0,sarita,India,Haryana,Male,4/6/1974,7/31/2025,Y,61,3
+3174-XLVMN,5/8/2021,Refferal,5/8/2023,Standard,Monthly,,,16.43,1418,44,0,hari,India,Rajasthan,Female,8/14/1966,,,,
+3178-WTQAO,3/24/2021,Refferal,3/24/2023,Standard,Annual,,,14.88,757,29,0,raghav,India,Madhya Pradesh,Female,6/19/1989,,,,
+3224-GITWQ,1/23/2022,Paid,1/23/2023,Premium,Monthly,,,21.22,1493,31,0,sapna,India,Manipur,Female,7/8/1982,,,,
+3235-UPGAY,6/8/2023,Organic,6/8/2026,Standard,Monthly,,,14.61,698,40,0,bhupendra,India,Bihar,Male,2/18/1975,,,,
+3237-XGETP,8/31/2022,Refferal,8/31/2023,Premium,Monthly,8/27/2023,Billing issues,25.05,845,87,1,hari,India,Assam,Male,1/14/1981,,,,
+3241-OWQWD,6/19/2020,Paid,6/19/2022,Premium,Monthly,1/6/2025,Slow internet speed,23.48,1107,65,1,pankaj,India,Assam,Female,7/20/1968,,,,
+3250-FOKOC,7/4/2023,Paid,7/4/2027,Basic,Annual,,,6.05,334,4,0,sunaina,India,Haryana,Male,10/4/1974,,,,
+3282-VRFON,3/1/2020,Organic,3/1/2024,Standard,Annual,,,15.46,1298,44,0,indira,India,Uttar Pradesh,Female,7/26/1998,,,,
+3285-JNABY,7/26/2023,Paid,7/26/2025,Standard,Monthly,11/30/2023,Moved to different city,14.3,523,74,1,amit,India,Assam,Male,7/9/1960,10/28/2023,Y,25,5
+3298-RZZIK,6/30/2023,Paid,6/30/2024,Standard,Monthly,,,13.11,439,39,0,kanta,India,Kerala,Male,10/1/1975,,,,
+3304-HHJIS,11/29/2020,Organic,11/29/2024,Basic,Annual,,,8.4,711,52,0,yogesh,India,Rajasthan,Female,6/9/2003,,,,
+3324-JTYBW,10/16/2022,Organic,10/16/2023,Basic,Monthly,,,9.96,392,46,0,sarita,India,Odisha,Female,1/5/1971,,,,
+3329-CCIHV,3/10/2023,Paid,3/10/2026,Basic,Monthly,,,8.85,530,7,0,deepa,India,West Bengal,Male,2/22/1984,1/13/2025,Y,59,2
+3339-XZGHL,4/10/2021,Paid,4/10/2022,Standard,Monthly,,,17.03,925,44,0,niranjan,India,Uttar Pradesh,Male,11/17/1971,,,,
+3405-ROCUM,5/24/2021,Paid,5/24/2023,Standard,Annual,,,14.6,1301,3,0,deepa,India,Meghalaya,Female,3/5/1980,,,,
+3419-SFFLX,11/18/2022,Refferal,11/18/2024,Premium,Monthly,,,24,1459,51,0,dilip,India,Meghalaya,Male,12/3/1993,,,,
+3432-RMZBW,4/2/2021,Paid,4/2/2025,Standard,Annual,,,16.07,1035,18,0,arjun,India,Tripura,Male,11/26/1974,5/4/2025,N,23,2
+3453-OIGTK,9/29/2020,Paid,9/29/2023,Standard,Annual,,,18.84,2011,26,0,sarita,India,Nagaland,Male,4/3/2000,,,,
+3468-MQXUR,1/4/2021,Refferal,1/4/2023,Standard,Monthly,,,14.8,1351,48,0,raghav,India,Uttar Pradesh,Male,8/18/2000,,,,
+3473-HOCRN,5/12/2023,Paid,5/12/2024,Standard,Annual,7/14/2024,Slow internet speed,12.7,480,90,1,preeti,India,Kerala,Female,7/12/1961,6/5/2024,N,23,3
+3506-RPFDN,4/30/2021,Refferal,4/30/2023,Standard,Monthly,,,13.85,960,51,0,manoj,India,Goa,Male,10/27/1971,,,,
+3508-EHNMN,2/2/2021,Organic,2/2/2022,Basic,Annual,,,9.98,971,37,0,renu,India,Bihar,Female,9/4/1992,,,,
+3514-SAFQC,4/19/2023,Paid,4/19/2026,Basic,Monthly,,,8.25,426,40,0,sarita,India,Uttar Pradesh,Female,7/21/1996,4/12/2026,N,75,2
+3517-ZCMJN,7/3/2021,Refferal,7/3/2023,Standard,Annual,,,12.24,983,25,0,sarita,India,Rajasthan,Female,2/20/1971,,,,
+3520-FLKAW,7/3/2023,Organic,7/3/2026,Premium,Annual,,,26.88,1362,52,0,satish,India,Madhya Pradesh,Male,5/5/1998,,,,
+3520-KERHK,6/19/2021,Paid,6/19/2022,Premium,Monthly,,,27.92,2255,43,0,neha,India,Telangana,Female,6/15/1971,,,,
+3532-PBBXU,11/30/2023,Paid,11/30/2026,Premium,Annual,,,25.63,856,16,0,raghav,India,Gujarat,Female,8/12/2005,,,,
+3539-DWHRZ,3/12/2022,Organic,3/12/2025,Basic,Monthly,,,7.54,436,27,0,geeta,India,Chhattisgarh,Female,5/19/1968,,,,
+3542-FRJDA,2/6/2023,Refferal,2/6/2027,Premium,Annual,,,20.3,888,32,0,shalini,India,Tamil Nadu,Male,2/8/1983,,,,
+3569-KBNGF,5/16/2020,Organic,5/16/2022,Premium,Annual,,,20.26,1789,49,0,chandan,India,Bihar,Male,1/23/2007,,,,
+3576-KIYUY,11/23/2020,Paid,11/23/2023,Basic,Monthly,,,6.88,580,24,0,babita,India,Meghalaya,Male,5/5/2007,1/30/2022,Y,43,3
+3581-PKWIY,2/11/2020,Paid,2/11/2022,Basic,Monthly,,,6,746,11,0,reema,India,Karnataka,Male,8/11/1998,,,,
+3587-TRPLI,3/26/2022,Paid,3/26/2025,Standard,Annual,,,15.36,1144,27,0,umesh,India,Gujarat,Female,5/19/1967,,,,
+3600-JVSMY,2/2/2021,Organic,2/2/2022,Basic,Annual,,,6.64,589,2,0,varsha,India,Uttarakhand,Male,8/14/1961,,,,
+3608-RYSMW,5/2/2022,Refferal,5/2/2025,Premium,Annual,,,25.82,1678,3,0,dinesh,India,Madhya Pradesh,Female,2/19/2005,,,,
+3621-JJXPL,10/1/2021,Refferal,10/1/2023,Premium,Annual,,,24.77,2106,43,0,mahesh,India,Maharashtra,Female,5/6/1978,,,,
+3666-BUOEO,5/13/2021,Paid,5/13/2022,Premium,Monthly,,,26.07,2001,27,0,kamla,India,Assam,Male,6/7/1977,,,,
+3681-KBPEN,11/12/2023,Paid,11/12/2024,Standard,Monthly,12/5/2024,Slow internet speed,18.35,750,89,1,radha,India,Himachal Pradesh,Female,7/18/1966,,,,
+3700-UQAOZ,2/5/2022,Organic,2/5/2023,Basic,Monthly,,,6.33,399,12,0,shobha,India,Uttar Pradesh,Female,4/20/1975,,,,
+3748-GVKCY,7/16/2023,Refferal,7/16/2024,Premium,Monthly,12/2/2024,No longer needed,27.12,970,96,1,priya,India,Rajasthan,Male,8/18/1976,10/22/2024,N,32,3
+3752-TOTMP,3/11/2020,Refferal,3/11/2022,Premium,Annual,,,26.78,2997,27,0,renu,India,Punjab,Male,12/23/1975,,,,
+3753-CPUKN,5/29/2022,Refferal,5/29/2023,Premium,Monthly,2/26/2025,Slow internet speed,22.06,1426,93,1,jyoti,India,Madhya Pradesh,Male,12/2/1971,2/21/2025,Y,35,2
+3757-TNLJS,2/26/2021,Organic,2/26/2025,Premium,Annual,,,25.48,1524,43,0,kavita,India,Kerala,Male,5/22/2001,,,,
+3764-IWKIV,2/22/2022,Refferal,2/22/2023,Standard,Annual,,,12.25,707,24,0,Preeti,India,Punjab,Male,11/15/1975,10/12/2024,Y,58,3
+3767-ESGUE,3/6/2020,Refferal,3/6/2023,Standard,Monthly,,,15.41,1681,47,0,kanta,India,Meghalaya,Male,5/26/2003,,,,
+3780-RSLZP,1/8/2022,Organic,1/8/2024,Basic,Annual,,,6.94,532,28,0,lalita,India,Chhattisgarh,Male,8/17/1996,,,,
+3782-JYAVH,9/27/2020,Paid,9/27/2022,Basic,Annual,,,8.58,766,38,0,kalpana,India,Jharkhand,Male,12/3/1973,,,,
+3782-SHSTG,2/6/2022,Paid,2/6/2025,Standard,Annual,,,15.28,735,38,0,ritu,India,Rajasthan,Male,4/27/1989,,,,
+3784-UFVMJ,7/19/2022,Refferal,7/19/2024,Premium,Annual,,,24.1,1727,4,0,veena,India,Telangana,Female,9/12/1983,,,,
+3795-BLJYT,10/19/2023,Paid,10/19/2025,Basic,Monthly,,,6.28,215,40,0,durga,India,Tripura,Female,2/9/2006,,,,
+3813-AKWTG,11/29/2023,Organic,11/29/2026,Premium,Annual,,,21.72,915,13,0,mahesh,India,Rajasthan,Male,8/18/1984,,,,
+3823-PMBTM,3/31/2021,Refferal,3/31/2024,Standard,Monthly,,,18.34,1486,47,0,manoj,India,Nagaland,Male,10/24/1978,,,,
+3847-WIUSO,12/9/2022,Organic,12/9/2024,Basic,Monthly,8/7/2024,Not enough content,6.49,142,84,1,sunita,India,Delhi,Female,3/13/1991,7/17/2024,N,27,4
+3860-FUAHG,10/5/2022,Paid,10/5/2025,Premium,Monthly,,,22.48,1326,21,0,dilip,India,Assam,Female,5/4/1983,,,,
+3876-YUNJN,2/14/2022,Organic,2/14/2023,Standard,Annual,,,17.98,899,19,0,brij,India,Kerala,Female,2/9/1981,,,,
+3880-UUBLZ,8/24/2020,Organic,8/24/2023,Basic,Monthly,,,6.34,604,2,0,sarita,India,Telangana,Female,6/8/1991,,,,
+3890-BAKMW,1/26/2022,Paid,1/26/2025,Premium,Monthly,,,23.39,1105,40,0,vandana,India,Karnataka,Female,4/26/1967,,,,
+3923-HKEUK,7/30/2023,Organic,7/30/2024,Premium,Annual,,,20.47,1140,22,0,narendra,India,Meghalaya,Male,4/17/1964,,,,
+3948-WYKSL,3/23/2020,Refferal,3/23/2022,Basic,Annual,,,9.55,890,7,0,mahesh,India,Odisha,Male,11/17/1993,,,,
+3956-ZVXQZ,4/22/2020,Refferal,4/22/2023,Basic,Monthly,,,7.06,410,25,0,sushma,India,Telangana,Female,8/25/2005,,,,
+3960-JLJPQ,11/28/2023,Refferal,11/28/2026,Standard,Monthly,,,12.68,325,28,0,umesh,India,Telangana,Female,8/27/1999,,,,
+3990-MFGPS,12/16/2022,Refferal,12/16/2024,Standard,Monthly,2/29/2024,Too expensive,13.83,366,83,1,kalpana,India,Goa,Male,3/13/1963,2/21/2024,Y,34,2
+3996-RMSJT,3/1/2022,Paid,3/1/2023,Standard,Monthly,,,16,1096,54,0,raghav,India,Kerala,Female,3/5/1968,,,,
+3997-DZZNP,2/26/2021,Organic,2/26/2023,Premium,Annual,,,27.48,2034,42,0,ashok,India,Uttarakhand,Male,7/13/1960,,,,
+4008-WUSXT,5/20/2021,Paid,5/20/2023,Standard,Annual,,,15.56,988,46,0,satish,India,Punjab,Female,3/14/1973,,,,
+4011-QPNTV,3/25/2023,Organic,3/25/2024,Standard,Monthly,1/12/2025,Billing issues,15.91,435,95,1,umesh,India,Nagaland,Male,3/31/1995,1/3/2025,Y,18,4
+4028-MMZNA,12/18/2022,Refferal,12/18/2025,Premium,Monthly,,,23.22,1360,29,0,manju,India,Chhattisgarh,Female,2/7/1980,,,,
+4045-GZLNL,5/7/2020,Refferal,5/7/2021,Premium,Annual,,,26.55,2241,37,0,sapna,Nepal,Kathmandu,Female,4/28/2001,,,,
+4076-QMYPM,6/17/2022,Organic,6/17/2024,Basic,Annual,,,9.94,447,8,0,harish,India,Telangana,Female,5/26/1986,4/24/2026,N,60,4
+4105-MGWFE,8/20/2020,Organic,8/20/2024,Basic,Annual,,,6.83,567,1,0,pushpa,India,Assam,Male,6/17/1964,,,,
+4139-TSODJ,11/20/2021,Organic,11/20/2023,Standard,Annual,,,12.82,971,32,0,Varsha,India,Punjab,Male,10/28/1984,,,,
+4144-ZDLNT,5/31/2020,Organic,5/31/2022,Standard,Annual,,,14.27,1615,8,0,dilip,India,Meghalaya,Female,4/8/1969,,,,
+4145-DSSQM,4/24/2022,Organic,4/24/2026,Premium,Annual,,,23.53,1727,43,0,lata,India,West Bengal,Female,10/3/1983,6/10/2026,Y,64,4
+4150-SWFRO,10/7/2020,Organic,10/7/2022,Standard,Annual,,,14.03,826,10,0,seema,India,Delhi,Male,1/7/1966,11/9/2023,Y,53,1
+4177-YOXUC,5/18/2023,Organic,5/18/2025,Basic,Annual,,,9.84,583,31,0,raghav,India,Kerala,Male,2/12/1991,,,,
+4182-MRDLV,2/3/2021,Paid,2/3/2025,Basic,Annual,,,6.22,637,24,0,ravi,India,Rajasthan,Female,8/16/1964,,,,
+4220-DXXXW,2/11/2022,Organic,2/11/2024,Basic,Annual,,,6.4,450,40,0,sunaina,India,Meghalaya,Male,3/14/2005,,,,
+4226-PTUDR,8/16/2023,Organic,8/16/2024,Basic,Annual,,,8.78,411,12,0,brij,India,Meghalaya,Male,8/6/1961,,,,
+4237-TLRXM,12/14/2021,Refferal,12/14/2022,Basic,Monthly,,,6.35,528,29,0,Usha,India,Jharkhand,Female,1/15/1989,,,,
+4246-WDDEO,4/11/2020,Organic,4/11/2023,Standard,Monthly,,,12.58,1336,26,0,govind,India,Goa,Female,5/31/1986,,,,
+4254-YPWTJ,2/6/2022,Paid,2/6/2024,Basic,Monthly,,,6.39,305,5,0,poonam,India,Odisha,Male,11/15/1962,,,,
+4267-QSFJK,1/13/2023,Organic,1/13/2026,Standard,Monthly,,,12.67,578,1,0,asha,India,West Bengal,Male,7/26/1970,,,,
+4278-RAVPA,4/9/2023,Paid,4/9/2025,Basic,Monthly,,,9.15,439,46,0,sushma,India,Goa,Female,5/31/1969,,,,
+4279-SPLAK,1/7/2021,Refferal,1/7/2023,Premium,Monthly,8/17/2023,Relocated abroad,24.1,1647,70,1,kusum,India,Punjab,Male,5/18/1994,8/14/2023,N,4,1
+4301-RSMQR,3/21/2022,Refferal,3/21/2024,Premium,Monthly,,,26.69,1890,22,0,anju,India,Meghalaya,Female,9/24/1994,,,,
+4305-PDBIZ,9/5/2023,Organic,9/5/2024,Basic,Annual,5/3/2024,Moved to different city,8.49,236,91,1,gopal,India,West Bengal,Male,1/6/1982,,,,
+4318-SKWRZ,8/25/2021,Organic,8/25/2025,Premium,Annual,,,20.51,1708,35,0,kamla,India,Maharashtra,Female,3/25/1977,,,,
+4325-KVQMH,9/5/2020,Organic,9/5/2023,Basic,Monthly,,,7.9,447,3,0,priya,India,Odisha,Male,2/13/1983,,,,
+4357-XKUCX,5/13/2021,Organic,5/13/2022,Basic,Monthly,,,8.29,595,53,0,anju,India,Telangana,Male,3/4/1999,11/1/2023,N,85,3
+4360-BKTVH,1/4/2021,Organic,1/4/2024,Basic,Monthly,,,7.77,557,26,0,sapna,India,Goa,Male,9/24/1973,5/8/2022,Y,70,2
+4377-QPLDB,1/5/2022,Paid,1/5/2024,Premium,Annual,5/15/2024,Too expensive,22.07,953,92,1,yash,India,Punjab,Male,2/12/1986,5/14/2024,N,20,4
+4383-FQRKV,11/7/2023,Refferal,11/7/2025,Standard,Monthly,,,14.69,586,11,0,yash,India,Tamil Nadu,Female,2/16/1981,3/8/2025,Y,41,5
+4430-FRNKO,6/17/2020,Paid,6/17/2024,Premium,Annual,,,24,2485,46,0,sarla,India,Uttar Pradesh,Female,3/20/1987,,,,
+4431-SPMLK,4/5/2021,Organic,4/5/2023,Basic,Monthly,,,8.12,668,4,0,kamla,India,Gujarat,Female,5/20/1985,,,,
+4432-ZDBMV,9/27/2021,Paid,9/27/2022,Standard,Annual,,,18.85,955,40,0,sunita,India,Punjab,Female,10/14/1959,,,,
+4497-NAIAD,9/7/2021,Paid,9/7/2024,Standard,Annual,,,18.2,828,41,0,shobha,India,West Bengal,Male,6/14/1989,,,,
+4503-MPFCS,7/24/2021,Paid,7/24/2025,Standard,Annual,,,13.62,1294,1,0,mina,India,Maharashtra,Male,11/20/1997,,,,
+4517-TYWPB,3/16/2021,Organic,3/16/2023,Basic,Monthly,,,7.51,718,44,0,seema,India,Himachal Pradesh,Female,5/13/2007,,,,
+4520-TSWYE,6/8/2023,Organic,6/8/2025,Standard,Monthly,,,14.36,741,25,0,kalpana,India,Rajasthan,Male,6/7/2007,,,,
+4521-ORUWH,5/23/2022,Refferal,5/23/2024,Standard,Monthly,,,13.59,682,19,0,tarun,India,Haryana,Female,2/8/1978,11/29/2022,N,27,1
+4522-YGCMI,6/15/2022,Organic,6/15/2024,Standard,Monthly,12/31/2023,Billing issues,15.11,379,94,1,dinesh,India,Uttarakhand,Female,12/9/1983,12/11/2023,N,29,4
+4530-BBSVF,1/22/2020,Organic,1/22/2022,Premium,Annual,,,21.87,1964,18,0,govind,India,Punjab,Male,7/8/2006,,,,
+4536-PTVQA,3/7/2023,Refferal,3/7/2024,Basic,Annual,,,8.34,495,28,0,hari,India,Bihar,Female,7/4/2001,,,,
+4536-ZKQUO,5/4/2021,Refferal,5/4/2024,Premium,Monthly,,,22.77,1905,2,0,dharam,India,Manipur,Female,4/21/2000,2/25/2024,Y,55,5
+4543-PSPPH,3/4/2021,Refferal,3/4/2022,Premium,Monthly,,,26.93,1852,11,0,mina,India,Kerala,Female,9/24/1998,,,,
+4545-YNFSS,6/16/2023,Refferal,6/16/2027,Basic,Annual,,,8,297,16,0,hemant,India,Punjab,Male,4/25/2003,4/14/2026,N,67,5
+4548-OIQTL,3/4/2021,Organic,3/4/2025,Basic,Annual,,,8.33,679,9,0,shiva,Nepal,Kathmandu,Male,12/6/1975,,,,
+4551-XQUEY,6/6/2020,Refferal,6/6/2022,Standard,Monthly,,,14.46,1028,19,0,sunaina,India,Uttar Pradesh,Male,12/22/1995,,,,
+4555-PYOBH,11/5/2023,Paid,11/5/2026,Premium,Annual,,,21.38,869,49,0,poonam,India,Madhya Pradesh,Female,6/29/1970,2/18/2025,N,32,2
+4589-JZJVN,2/16/2023,Refferal,2/16/2026,Standard,Annual,,,13.52,560,18,0,jyoti,India,West Bengal,Male,8/7/1958,9/1/2023,N,78,4
+4612-HCHKM,2/24/2020,Paid,2/24/2021,Standard,Annual,,,15.76,1012,3,0,neha,India,Delhi,Female,9/12/1963,,,,
+4624-IEJSO,11/27/2023,Organic,11/27/2026,Basic,Monthly,,,8.25,280,2,0,shobha,India,Gujarat,Female,10/18/1987,,,,
+4649-NJPQW,5/11/2021,Paid,5/11/2022,Standard,Annual,,,14.06,770,5,0,rangadevi,India,Rajasthan,Female,6/1/1972,,,,
+4673-JBNWX,3/5/2023,Organic,3/5/2025,Premium,Monthly,,,25.96,1549,36,0,keshav,India,Manipur,Female,5/18/1965,,,,
+4684-CWLIX,8/21/2021,Refferal,8/21/2023,Basic,Annual,,,9.3,703,9,0,asha,India,Tripura,Female,9/22/2001,,,,
+4692-ROCNC,6/24/2022,Paid,6/24/2023,Standard,Monthly,,,17.09,640,17,0,arjun,India,Kerala,Female,1/20/1971,,,,
+4693-YRLHB,7/26/2023,Organic,7/26/2024,Basic,Monthly,,,7,284,17,0,vandana,India,Punjab,Male,7/12/1970,,,,
+4704-ZJLVG,4/13/2023,Organic,4/13/2025,Standard,Monthly,,,14.36,433,24,0,geeta,India,Karnataka,Male,12/18/2001,,,,
+4711-TXAHX,5/29/2022,Paid,5/29/2023,Basic,Annual,,,10,784,8,0,renu,India,Odisha,Male,9/26/1995,,,,
+4728-UQAHI,10/15/2022,Paid,10/15/2025,Basic,Monthly,,,6.59,296,2,0,arun,India,Nagaland,Male,3/11/1966,,,,
+4733-ZHOFE,4/21/2022,Organic,4/21/2026,Standard,Annual,,,15.9,850,27,0,vandana,India,Chhattisgarh,Female,10/31/1996,10/16/2022,N,80,2
+4739-NHHOI,9/16/2023,Organic,9/16/2025,Standard,Annual,,,16.78,520,30,0,hari,India,Madhya Pradesh,Female,2/28/1992,,,,
+4753-TDOOR,1/31/2020,Organic,1/31/2023,Basic,Annual,,,10,966,53,0,dev,India,Maharashtra,Male,6/14/1995,,,,
+4756-XEYRT,2/18/2023,Organic,2/18/2024,Standard,Monthly,,,15.69,663,10,0,ramkumar,India,Uttar Pradesh,Male,9/12/1988,,,,
+4760-AELVB,6/30/2022,Organic,6/30/2024,Basic,Monthly,,,9.64,660,2,0,preeti,India,Uttarakhand,Female,5/17/1997,,,,
+4794-QSAGT,8/22/2021,Paid,8/22/2022,Standard,Monthly,,,13.44,756,21,0,rekha,India,Gujarat,Male,8/4/1963,,,,
+4812-BKSCR,1/3/2023,Organic,1/3/2026,Standard,Annual,,,17.96,1010,10,0,rajendra,India,Bihar,Male,7/21/1986,,,,
+4814-BWGHI,4/23/2022,Paid,4/23/2023,Basic,Monthly,,,9.18,579,53,0,sushma,India,Tamil Nadu,Female,12/21/1976,,,,
+4833-ZSLHQ,7/6/2021,Paid,7/6/2023,Standard,Annual,,,16.85,1063,9,0,sarla,India,Goa,Female,4/25/2005,,,,
+4834-FCXSB,5/6/2021,Organic,5/6/2024,Standard,Annual,,,15.25,1387,54,0,shobha,India,Gujarat,Female,1/14/1988,,,,
+4843-NKYVN,7/28/2022,Paid,7/28/2026,Standard,Annual,,,15.52,1022,27,0,vidya,Nepal,Kathmandu,Male,3/1/1967,,,,
+4843-SLZSH,9/28/2021,Paid,9/28/2024,Premium,Annual,,,24.37,1984,39,0,yash,India,Himachal Pradesh,Female,8/10/2006,,,,
+4852-UCCFH,12/30/2020,Paid,12/30/2024,Premium,Annual,,,22.96,2390,30,0,sarla,India,Punjab,Male,9/13/1958,12/14/2024,Y,66,5
+4874-KKZMR,12/19/2021,Paid,12/19/2022,Standard,Monthly,,,18.74,1316,2,0,dharam,India,Assam,Male,9/1/1992,,,,
+4892-GQPKW,3/21/2021,Paid,3/21/2024,Basic,Annual,,,7.12,533,8,0,balram,India,Manipur,Female,8/10/2003,,,,
+4894-CZSGS,7/16/2021,Refferal,7/16/2023,Standard,Monthly,,,18.99,1277,11,0,madan,India,Assam,Female,9/23/1988,,,,
+4906-AYOYT,1/26/2022,Paid,1/26/2024,Premium,Annual,,,26.6,1144,51,0,govind,India,Tamil Nadu,Male,11/29/1992,,,,
+4920-XMDTB,11/20/2020,Paid,11/20/2022,Premium,Annual,,,27.2,2073,38,0,yogesh,India,Maharashtra,Male,6/6/1999,,,,
+4923-TFBQD,1/9/2022,Refferal,1/9/2023,Basic,Monthly,,,7.47,588,29,0,kusum,India,Telangana,Male,12/19/1962,,,,
+4942-PTLEU,6/27/2021,Paid,6/27/2024,Standard,Annual,,,14.33,1214,11,0,reema,India,Kerala,Male,5/19/1985,4/2/2026,Y,34,1
+4966-EZJGV,1/10/2021,Organic,1/10/2022,Standard,Annual,,,18.2,1401,47,0,rekha,India,Assam,Female,7/31/2007,,,,
+4977-YWDIA,6/23/2022,Refferal,6/23/2026,Basic,Annual,,,6.76,468,21,0,savita,India,Rajasthan,Female,3/17/1973,,,,
+4985-NKAEA,5/2/2022,Organic,5/2/2023,Basic,Monthly,,,8,438,65,0,lalita,India,Haryana,Female,8/25/2004,,,,
+4988-TXWII,1/27/2020,Paid,1/27/2023,Basic,Monthly,,,9.44,722,25,0,dilip,India,Manipur,Male,1/24/1992,,,,
+4995-TFJCR,5/2/2023,Paid,5/2/2024,Basic,Monthly,,,8,370,47,0,meena,India,Goa,Female,5/1/1965,,,,
+4996-PYCWH,2/19/2021,Paid,2/19/2022,Premium,Monthly,,,23.04,1416,14,0,manju,India,Goa,Female,5/18/1992,,,,
+4999-NFDCI,6/24/2020,Refferal,6/24/2023,Standard,Monthly,,,17.01,1592,11,0,ramesh,India,Assam,Male,5/1/1999,6/20/2021,N,38,2
+5006-TUPFM,1/7/2022,Refferal,1/7/2024,Basic,Monthly,,,8.6,360,19,0,kusum,India,Odisha,Female,1/25/1991,,,,
+5012-GXRSR,8/16/2022,Paid,8/16/2026,Premium,Annual,,,24.82,964,40,0,mina,India,Tripura,Male,5/20/1980,,,,
+5019-PYPII,11/2/2023,Paid,11/2/2024,Standard,Monthly,,,16.21,577,19,0,pankaj,India,Meghalaya,Male,2/12/1963,,,,
+5061-IXIFB,7/29/2020,Refferal,7/29/2024,Standard,Annual,5/23/2025,Network coverage issues,13.79,1012,61,1,krishan,India,Karnataka,Female,2/11/1998,5/20/2025,Y,26,1
+5064-AOAXV,8/31/2022,Paid,8/31/2023,Basic,Annual,,,8.77,609,24,0,devendra,India,Rajasthan,Male,4/19/1995,,,,
+5065-IGQWJ,3/17/2020,Refferal,3/17/2024,Premium,Annual,,,23.65,2662,11,0,mohan,India,Goa,Female,2/23/1970,,,,
+5074-TNMUN,3/19/2021,Paid,3/19/2023,Premium,Annual,,,24.85,1247,35,0,Anju,Nepal,Kathmandu,Male,5/28/1984,,,,
+5083-FBNDP,5/1/2020,Organic,5/1/2022,Standard,Annual,,,13.6,838,49,0,ritu,India,Bihar,Female,2/11/1990,,,,
+5086-HYJBK,7/18/2020,Refferal,7/18/2023,Basic,Monthly,,,6.3,391,55,0,dinesh,India,West Bengal,Female,7/8/2004,,,,
+5110-WSXKH,5/25/2020,Paid,5/25/2021,Basic,Monthly,,,9.29,647,34,0,sarla,India,Gujarat,Female,12/16/1983,,,,
+5117-OWVEE,6/2/2020,Organic,6/2/2022,Standard,Annual,,,15.01,1642,6,0,asha,India,Himachal Pradesh,Male,12/13/1990,,,,
+5129-BFPWO,7/6/2023,Paid,7/6/2024,Basic,Monthly,,,9.49,380,20,0,manoj,India,Maharashtra,Male,9/28/1973,,,,
+5149-RBWDE,7/10/2020,Organic,7/10/2024,Premium,Annual,,,25.94,1978,41,0,vikram,India,Gujarat,Female,12/17/2007,,,,
+5158-NTEUL,6/11/2022,Organic,6/11/2024,Basic,Monthly,,,6,308,15,0,kusum,India,Karnataka,Female,12/12/1962,,,,
+5164-JNQDO,10/6/2022,Paid,10/6/2024,Basic,Monthly,,,9.8,472,38,0,niranjan,India,Tripura,Male,7/19/1975,,,,
+5170-TJUVF,9/4/2022,Refferal,9/4/2023,Standard,Monthly,,,13,873,24,0,satish,India,Bihar,Male,5/11/2004,,,,
+5183-VSSGI,10/11/2022,Paid,10/11/2026,Basic,Annual,3/13/2023,Poor customer service,9,527,93,1,kiran,Nepal,Kathmandu,Female,12/11/1982,2/14/2023,N,8,4
+5190-JMPVR,12/21/2021,Organic,12/21/2022,Premium,Monthly,8/4/2025,Billing issues,25.47,1258,79,1,ravi,India,Gujarat,Female,3/1/2000,7/1/2025,N,11,3
+5191-REREF,12/11/2023,Organic,12/11/2024,Standard,Monthly,,,18.92,468,32,0,niranjan,India,Kerala,Female,5/15/1962,,,,
+5206-LOMFF,12/17/2023,Refferal,12/17/2025,Basic,Annual,,,8.24,281,41,0,naresh,India,Gujarat,Male,5/12/1962,,,,
+5242-RWIKE,8/14/2022,Refferal,8/14/2024,Standard,Monthly,,,16.67,639,45,0,hari,India,Chhattisgarh,Female,9/2/1972,,,,
+5249-WIUKW,2/21/2020,Paid,2/21/2022,Basic,Monthly,,,8.97,703,32,0,tarun,India,Nagaland,Female,8/31/1991,,,,
+5263-OQDPC,1/11/2020,Organic,1/11/2021,Basic,Monthly,,,9.54,963,6,0,manoj,India,Maharashtra,Male,5/25/1994,,,,
+5273-BAZRZ,9/24/2021,Refferal,9/24/2023,Standard,Annual,,,13,1045,33,0,dharam,India,Bihar,Male,7/23/1990,,,,
+5275-WQIWN,5/5/2023,Refferal,5/5/2024,Standard,Annual,,,15.51,651,27,0,dharam,India,Gujarat,Male,3/14/1994,7/4/2025,N,40,1
+5279-LUVQP,8/17/2020,Paid,8/17/2023,Basic,Monthly,,,7,750,40,0,sanjay,India,Rajasthan,Female,11/28/1969,,,,
+5283-QKQQS,9/12/2022,Refferal,9/12/2023,Standard,Monthly,,,17.61,730,35,0,tarun,India,Uttar Pradesh,Female,3/12/2004,,,,
+5301-KISES,12/10/2021,Organic,12/10/2024,Premium,Monthly,,,22.84,1273,13,0,raman,Nepal,Kathmandu,Female,12/23/1990,,,,
+5343-RAMTZ,1/6/2023,Paid,1/6/2025,Standard,Annual,5/14/2025,Relocated abroad,15.7,549,66,1,sanjay,India,Kerala,Male,4/4/1976,4/28/2025,N,8,3
+5352-DQTNP,8/5/2020,Refferal,8/5/2023,Basic,Annual,,,8.43,739,36,0,vinod,India,Chhattisgarh,Female,2/10/1988,,,,
+5354-NVKXP,7/9/2023,Organic,7/9/2024,Standard,Annual,,,14.49,555,3,0,umesh,India,Nagaland,Male,4/14/1974,,,,
+5359-RJXUT,9/24/2020,Refferal,9/24/2021,Standard,Monthly,,,15.17,1666,43,0,aarti,India,Maharashtra,Female,11/1/1979,,,,
+5392-BMLGA,5/20/2021,Refferal,5/20/2025,Basic,Annual,,,9.83,955,25,0,vinod,India,Chhattisgarh,Male,3/13/2004,,,,
+5406-SZUFK,7/24/2022,Refferal,7/24/2025,Premium,Monthly,,,25.59,1396,2,0,ramesh,India,Himachal Pradesh,Female,2/8/1966,,,,
+5422-FXNTZ,3/23/2021,Organic,3/23/2022,Standard,Annual,,,14.44,905,32,0,manisha,India,Kerala,Female,12/28/1986,,,,
+5435-ZOBSP,10/31/2021,Paid,10/31/2022,Premium,Monthly,,,25.75,1115,6,0,ramkumar,India,Himachal Pradesh,Female,8/1/1986,9/19/2024,N,20,2
+5446-IQTED,7/16/2023,Organic,7/16/2025,Basic,Monthly,,,6.68,267,42,0,pooja,India,Madhya Pradesh,Male,5/26/1977,,,,
+5486-DKIYK,7/2/2022,Paid,7/2/2023,Standard,Annual,,,17.91,1027,42,0,suresh,India,Kerala,Male,5/20/1977,,,,
+5490-GONPD,11/3/2022,Organic,11/3/2025,Standard,Monthly,8/15/2023,Payment failed repeatedly,14.15,598,75,1,arun,India,Haryana,Male,9/8/1999,8/2/2023,N,10,1
+5510-FVWPV,1/20/2022,Paid,1/20/2025,Premium,Annual,10/13/2024,Poor customer service,27.34,1097,92,1,niranjan,India,Goa,Male,7/25/1985,9/25/2024,N,31,1
+5513-ZSMMT,7/3/2021,Paid,7/3/2023,Premium,Annual,,,27.15,1249,5,0,asha,India,Kerala,Male,11/24/1960,,,,
+5514-KRQDR,9/1/2020,Refferal,9/1/2021,Basic,Annual,,,8.62,915,54,0,ajay,India,Assam,Male,4/3/2006,,,,
+5526-DZAXR,9/17/2023,Organic,9/17/2024,Premium,Annual,,,20.39,625,48,0,durga,India,West Bengal,Male,11/13/1994,,,,
+5529-MWLPM,4/28/2020,Paid,4/28/2023,Standard,Monthly,,,18.08,1611,45,0,kavya,India,Manipur,Female,1/20/2000,,,,
+5549-XDQXS,2/22/2022,Organic,2/22/2026,Basic,Annual,,,8.25,537,55,0,rangadevi,India,Haryana,Female,7/7/2002,,,,
+5581-EDTCZ,4/10/2020,Paid,4/10/2022,Basic,Annual,,,7.82,793,53,0,gopal,India,Madhya Pradesh,Female,12/15/1966,,,,
+5585-IETZZ,1/11/2021,Paid,1/11/2025,Standard,Annual,,,15,1306,1,0,hari,India,West Bengal,Male,6/15/1986,,,,
+5598-AOPND,5/24/2020,Paid,5/24/2024,Basic,Annual,,,9.17,903,6,0,mira,India,Delhi,Female,11/7/1987,,,,
+5602-HJBDU,7/20/2021,Paid,7/20/2023,Premium,Annual,4/2/2024,Poor streaming quality,21.77,1270,86,1,preeti,India,Nagaland,Male,6/23/2002,3/30/2024,Y,7,1
+5608-AJYMY,9/15/2023,Paid,9/15/2024,Standard,Monthly,,,15,714,22,0,ramkumar,India,Maharashtra,Male,9/25/1969,,,,
+5622-XLTGE,3/4/2022,Paid,3/4/2026,Basic,Annual,,,8.01,344,11,0,shiva,India,Maharashtra,Male,2/3/1973,3/9/2026,N,74,4
+5643-JIAOU,10/16/2023,Refferal,10/16/2027,Standard,Annual,,,16.88,696,25,0,satish,India,Punjab,Female,2/7/2001,,,,
+5647-IXCWK,7/25/2020,Paid,7/25/2023,Premium,Annual,,,27.55,2764,10,0,varsha,India,Bihar,Male,11/16/1988,3/31/2024,N,77,4
+5660-ZJTGH,10/12/2023,Organic,10/12/2024,Basic,Monthly,,,7.88,247,5,0,sunita,India,Karnataka,Female,1/11/1958,,,,
+5665-ZBXBM,1/31/2023,Paid,1/31/2025,Basic,Monthly,,,9.97,509,1,0,sarla,India,Maharashtra,Male,1/27/1962,,,,
+5669-UFGHJ,2/24/2020,Organic,2/24/2022,Premium,Monthly,,,23.01,2603,19,0,balram,India,Odisha,Male,11/16/1999,,,,
+5697-LMHJU,1/8/2021,Organic,1/8/2022,Standard,Monthly,,,13.6,973,10,0,harish,India,Uttar Pradesh,Female,4/7/1965,4/15/2025,N,57,5
+5701-EXNOL,5/23/2020,Paid,5/23/2021,Standard,Annual,,,18.33,1861,15,0,pankaj,India,Nagaland,Male,9/28/1962,,,,
+5725-GLYIG,10/6/2021,Paid,10/6/2022,Standard,Monthly,,,14.79,873,48,0,meena,India,Rajasthan,Male,7/27/1988,,,,
+5725-NZWCX,1/25/2020,Refferal,1/25/2022,Basic,Annual,,,7.07,770,10,0,tarun,India,Jharkhand,Male,8/24/1977,,,,
+5739-XQFFF,1/12/2021,Organic,1/12/2022,Standard,Annual,,,17.64,1881,39,0,meena,India,Tamil Nadu,Female,9/11/1998,,,,
+5742-SAWDP,8/6/2021,Refferal,8/6/2023,Basic,Annual,,,8.71,800,61,0,satish,India,Kerala,Male,1/4/1975,,,,
+5771-PCYNX,2/18/2022,Paid,2/18/2023,Basic,Annual,,,7.27,297,10,0,niranjan,India,Uttar Pradesh,Male,6/7/1971,,,,
+5776-XDBLM,5/2/2020,Organic,5/2/2022,Basic,Annual,,,7.37,757,6,0,amit,India,Uttar Pradesh,Male,1/13/1976,,,,
+5782-IVTRW,9/22/2022,Organic,9/22/2023,Standard,Monthly,,,14.98,822,40,0,satish,India,Uttar Pradesh,Male,8/29/2005,,,,
+5801-VAQZJ,12/19/2022,Paid,12/19/2023,Basic,Annual,,,7.56,286,18,0,ritu,India,Madhya Pradesh,Male,6/2/1987,12/22/2024,Y,41,3
+5811-VRYTN,5/17/2020,Refferal,5/17/2021,Premium,Monthly,,,25.47,2738,55,0,ajay,Nepal,Kathmandu,Female,7/1/1977,,,,
+5822-MJNUN,7/12/2023,Paid,7/12/2026,Basic,Monthly,,,9.1,288,39,0,geeta,India,Delhi,Male,9/30/1976,,,,
+5823-DQOLC,11/27/2020,Paid,11/27/2023,Standard,Monthly,,,16.88,1138,5,0,govind,India,Telangana,Male,12/13/1973,,,,
+5827-MENKN,10/24/2020,Paid,10/24/2021,Premium,Annual,1/10/2023,Payment failed repeatedly,24.68,1870,81,1,deepa,India,Delhi,Male,2/21/2001,12/10/2022,Y,4,3
+5837-VBLDV,5/4/2021,Paid,5/4/2022,Basic,Monthly,,,6.07,604,29,0,mina,India,Haryana,Male,7/7/1974,1/29/2025,Y,39,5
+5853-DKHWV,9/29/2021,Paid,9/29/2023,Standard,Monthly,4/23/2025,Moved to different city,16.65,630,60,1,rajendra,India,Bihar,Male,4/28/1976,4/14/2025,Y,32,3
+5863-WMNBS,1/7/2023,Paid,1/7/2025,Standard,Monthly,,,15.56,668,4,0,sundar,India,Himachal Pradesh,Female,3/23/1958,,,,
+5881-QENMH,12/29/2020,Paid,12/29/2023,Standard,Monthly,,,13,920,22,0,seema,India,Tamil Nadu,Male,6/14/1976,,,,
+5908-YCVQM,7/13/2023,Paid,7/13/2024,Premium,Annual,,,24.07,768,31,0,tejendra,India,Haryana,Female,4/23/1985,,,,
+5911-AXBIO,1/6/2020,Organic,1/6/2021,Premium,Annual,,,24.49,2590,22,0,savita,India,Karnataka,Female,11/3/1977,,,,
+5921-NUEUF,1/27/2023,Paid,1/27/2025,Basic,Monthly,7/9/2023,No longer needed,8.96,404,89,1,Keshav,India,Tripura,Male,7/8/1966,5/30/2023,N,8,5
+5923-LCVXV,8/2/2021,Paid,8/2/2024,Basic,Monthly,,,9.81,882,6,0,bimla,India,Assam,Male,4/5/2002,,,,
+5927-JJCAT,6/9/2023,Organic,6/9/2026,Basic,Monthly,,,9.57,284,8,0,sarita,India,Uttar Pradesh,Male,6/21/1961,,,,
+5941-KYQJI,7/30/2021,Refferal,7/30/2024,Premium,Annual,,,21.62,1693,45,0,deepa,Nepal,Kathmandu,Male,3/4/1985,,,,
+5944-EEZGP,12/11/2022,Refferal,12/11/2024,Standard,Monthly,,,15,643,13,0,dilip,India,Jharkhand,Male,8/2/1976,,,,
+5956-RBDXX,3/6/2021,Paid,3/6/2023,Basic,Annual,,,8.75,800,20,0,niranjan,India,Bihar,Female,6/23/1979,,,,
+5973-AATBT,11/16/2023,Paid,11/16/2026,Basic,Monthly,7/30/2024,Found better offer elsewhere,8.05,222,80,1,laxman,India,Madhya Pradesh,Male,11/21/1977,7/9/2024,N,24,3
+5973-GWARN,12/6/2020,Organic,12/6/2023,Standard,Annual,,,13.06,1286,44,0,ravi,India,Odisha,Female,10/4/1984,4/2/2022,Y,74,4
+5985-BXRVB,7/1/2021,Paid,7/1/2024,Standard,Monthly,,,15.82,1330,20,0,rahul,India,Goa,Male,5/28/1968,,,,
+5989-FVFJW,12/22/2020,Refferal,12/22/2022,Standard,Annual,,,17.96,1736,38,0,sunaina,India,Chhattisgarh,Female,7/26/1963,,,,
+5997-VIAQN,4/26/2020,Paid,4/26/2021,Standard,Annual,,,16.18,1269,44,0,ashok,India,Karnataka,Male,5/25/1980,,,,
+6012-GRVFE,2/21/2020,Paid,2/21/2023,Premium,Monthly,7/11/2023,App keeps crashing,25.26,1517,72,1,prakash,India,Uttarakhand,Female,11/26/2007,6/4/2023,N,2,3
+6015-ZSDOI,1/16/2023,Paid,1/16/2025,Standard,Monthly,,,12.98,439,34,0,sanjay,India,Manipur,Male,9/8/1976,,,,
+6022-APGHC,7/21/2020,Organic,7/21/2022,Standard,Monthly,,,12.08,1375,25,0,geeta,India,Maharashtra,Male,11/6/1963,,,,
+6034-UTJBD,9/15/2020,Paid,9/15/2024,Premium,Annual,,,20.84,2257,50,0,aarti,India,Uttarakhand,Female,9/9/1990,,,,
+6044-VTNBG,8/26/2022,Organic,8/26/2025,Basic,Monthly,4/27/2025,No longer needed,6.62,202,84,1,deepa,India,Tamil Nadu,Female,10/13/1988,4/6/2025,Y,1,2
+6045-HQCBV,7/24/2021,Refferal,7/24/2024,Premium,Annual,,,27.12,1484,25,0,prakash,India,Manipur,Male,1/24/1980,,,,
+6098-AAGWX,12/16/2021,Paid,12/16/2024,Premium,Monthly,5/4/2025,Poor streaming quality,26.61,1177,65,1,vandana,India,Manipur,Male,7/22/1989,4/8/2025,N,29,3
+6131-IWAUL,10/28/2023,Refferal,10/28/2025,Standard,Annual,3/27/2025,Too expensive,13.74,355,60,1,chandan,India,Uttar Pradesh,Female,11/10/1962,3/22/2025,Y,1,5
+6142-IVLJQ,10/15/2020,Organic,10/15/2022,Standard,Monthly,,,14.56,1359,38,0,ritu,India,Chhattisgarh,Male,7/19/1959,,,,
+6144-SMSQS,5/17/2023,Paid,5/17/2024,Standard,Monthly,,,14.95,673,27,0,govind,India,Odisha,Male,9/6/1970,,,,
+6158-EZMWF,3/30/2020,Refferal,3/30/2021,Premium,Annual,,,20.86,1274,41,0,sanjay,India,Rajasthan,Male,5/5/1979,10/1/2021,N,26,4
+6161-SYZZK,3/28/2020,Refferal,3/28/2022,Standard,Annual,,,15.25,982,34,0,shobha,India,Bihar,Male,9/18/2005,,,,
+6168-ROUVC,4/3/2020,Organic,4/3/2021,Basic,Annual,,,9.38,579,24,0,tejendra,India,Assam,Female,9/7/2003,,,,
+6177-SZVES,7/10/2022,Organic,7/10/2025,Standard,Monthly,,,12.31,903,21,0,maya,India,Rajasthan,Female,12/25/1963,,,,
+6193-KCVIH,9/7/2020,Paid,9/7/2022,Standard,Annual,,,18.62,1973,44,0,hari,India,Madhya Pradesh,Male,4/17/1997,,,,
+6200-ZLUJW,12/15/2021,Paid,12/15/2023,Standard,Monthly,,,14.87,1190,52,0,krishan,India,Tripura,Male,8/8/1995,,,,
+6233-MJKTR,5/16/2023,Organic,5/16/2027,Basic,Annual,,,9.52,511,15,0,rekha,India,Madhya Pradesh,Female,11/22/1994,,,,
+6243-GKNII,2/1/2023,Organic,2/1/2027,Basic,Annual,,,7,470,9,0,priya,India,Chhattisgarh,Male,12/20/1959,1/9/2025,N,69,3
+6244-SEMXR,4/20/2023,Refferal,4/20/2025,Basic,Monthly,,,9.3,456,22,0,pankaj,India,Karnataka,Male,9/26/1976,,,,
+6281-QWUNB,3/28/2023,Paid,3/28/2025,Standard,Annual,,,15.7,497,17,0,usha,India,Karnataka,Male,1/10/1969,,,,
+6289-WWNOI,3/11/2022,Paid,3/11/2023,Standard,Annual,,,18.56,775,48,0,chetan,India,Manipur,Male,1/26/1974,9/3/2022,N,70,1
+6296-JVSIC,11/4/2020,Paid,11/4/2023,Basic,Annual,,,7.33,664,14,0,dinesh,India,Meghalaya,Male,6/27/1991,,,,
+6300-LTKKA,9/11/2022,Refferal,9/11/2024,Premium,Annual,,,22.05,1250,25,0,meena,India,Haryana,Male,5/12/1966,,,,
+6301-PMJVA,3/13/2022,Organic,3/13/2025,Basic,Monthly,,,6.77,549,11,0,lalita,India,Meghalaya,Male,2/11/1982,3/5/2024,Y,41,1
+6306-PBXOK,11/15/2022,Paid,11/15/2026,Basic,Annual,,,9.04,373,43,0,kavya,India,Manipur,Female,9/23/1999,,,,
+6340-JBJRX,3/26/2020,Paid,3/26/2022,Basic,Annual,,,8.45,625,52,0,arun,India,Chhattisgarh,Female,12/16/1969,,,,
+6349-DFECE,11/12/2023,Refferal,11/12/2027,Standard,Annual,,,15.41,494,11,0,raman,India,Uttar Pradesh,Male,11/20/2003,,,,
+6357-OYTYV,4/9/2022,Paid,4/9/2026,Basic,Annual,,,7,498,18,0,anil,India,Goa,Female,3/6/1972,,,,
+6363-PLMDL,9/27/2021,Paid,9/27/2023,Basic,Monthly,,,8.5,688,50,0,kiran,India,Chhattisgarh,Female,8/18/1996,7/9/2024,N,66,4
+6370-ENQRC,12/23/2022,Organic,12/23/2024,Basic,Monthly,,,9.92,433,15,0,vijay,India,Uttarakhand,Female,2/7/2002,,,,
+6379-AILXX,2/12/2022,Paid,2/12/2025,Standard,Annual,,,16.7,795,48,0,neha,India,Punjab,Male,8/24/1991,,,,
+6407-MHUFN,3/21/2020,Paid,3/21/2021,Standard,Monthly,,,14.24,1242,50,0,subhash,India,Karnataka,Male,3/21/2005,,,,
+6407-PVUAN,11/15/2023,Organic,11/15/2025,Premium,Annual,,,23.99,984,11,0,mira,India,Gujarat,Male,1/9/1999,,,,
+6418-YWTKD,7/23/2021,Refferal,7/23/2022,Standard,Monthly,,,15.91,1320,3,0,rajesh,India,Tamil Nadu,Female,5/16/1982,,,,
+6434-AGELB,2/27/2021,Organic,2/27/2022,Standard,Monthly,,,14.83,986,16,0,govind,India,Odisha,Female,1/19/1967,,,,
+6437-IFAJB,11/29/2021,Organic,11/29/2023,Basic,Monthly,,,9.69,533,16,0,reema,India,Odisha,Male,11/18/1969,,,,
+6447-UZZMU,4/11/2021,Refferal,4/11/2023,Standard,Monthly,,,15.49,1282,39,0,meena,India,Karnataka,Male,9/3/1986,,,,
+6451-KSXCD,5/7/2023,Refferal,5/7/2024,Standard,Annual,,,16.48,732,19,0,rekha,Nepal,Kathmandu,Male,11/6/1961,,,,
+6456-BZJTB,2/23/2023,Refferal,2/23/2026,Premium,Monthly,,,23.43,1354,26,0,pankaj,India,Madhya Pradesh,Female,11/7/1978,,,,
+6462-RBDOT,4/28/2020,Paid,4/28/2023,Standard,Monthly,11/15/2024,Moved to different city,12.14,820,70,1,amit,India,Karnataka,Female,7/28/2002,,,,
+6467-RQRLW,3/13/2021,Paid,3/13/2022,Premium,Monthly,,,20.79,1712,51,0,madan,India,Karnataka,Female,6/9/2002,6/6/2023,Y,79,5
+6468-ZZBNR,6/25/2022,Refferal,6/25/2025,Basic,Annual,10/23/2024,App keeps crashing,8.56,450,78,1,geeta,India,Tamil Nadu,Female,8/26/1970,9/25/2024,N,31,2
+6489-RDYDC,8/18/2023,Refferal,8/18/2025,Premium,Monthly,,,27,1506,16,0,ravi,India,Meghalaya,Male,8/14/1968,6/21/2024,Y,31,2
+6489-ZNPXN,2/6/2022,Organic,2/6/2023,Basic,Annual,,,8.1,517,41,0,manoj,India,Odisha,Male,3/12/2002,,,,
+6490-VFMJZ,11/4/2022,Organic,11/4/2024,Premium,Monthly,,,27.55,1160,30,0,gopal,India,Punjab,Female,2/26/1995,,,,
+6499-THBQF,1/14/2020,Paid,1/14/2023,Premium,Annual,,,23.86,2091,16,0,bimla,India,Assam,Male,3/20/1984,,,,
+6502-QDKVH,5/28/2022,Organic,5/28/2024,Standard,Monthly,,,14,869,45,0,krishan,India,Nagaland,Male,8/18/1981,,,,
+6506-FZSJR,7/4/2022,Organic,7/4/2025,Premium,Annual,,,20.26,900,30,0,ajay,India,Maharashtra,Male,6/8/2000,6/17/2024,Y,77,2
+6570-WBHNK,3/31/2022,Organic,3/31/2024,Standard,Monthly,,,18.87,1209,47,0,anil,India,Tamil Nadu,Female,4/24/1986,,,,
+6571-TOJRI,3/4/2020,Paid,3/4/2021,Standard,Monthly,,,12,1173,47,0,anju,India,Gujarat,Male,1/30/1993,,,,
+6572-IAJCX,2/13/2022,Refferal,2/13/2024,Premium,Monthly,1/20/2024,Poor customer service,25.41,1207,86,1,kavya,India,West Bengal,Female,3/28/1959,12/28/2023,Y,17,2
+6576-BLNYL,10/4/2021,Paid,10/4/2023,Standard,Monthly,,,12.16,1049,40,0,vidya,India,Delhi,Female,7/19/1993,,,,
+6576-XUPPS,7/30/2020,Paid,7/30/2023,Standard,Annual,,,17.34,1827,48,0,sarla,India,Uttar Pradesh,Male,2/1/1984,12/30/2020,N,52,3
+6590-BJTLK,10/27/2023,Paid,10/27/2025,Standard,Monthly,9/6/2024,Slow internet speed,13.65,482,69,1,mina,India,Uttar Pradesh,Male,6/5/1970,8/1/2024,Y,9,3
+6594-QBIPX,12/16/2020,Paid,12/16/2023,Standard,Monthly,,,15.52,804,14,0,dilip,India,Telangana,Male,9/1/1964,,,,
+6620-HIECE,11/11/2022,Refferal,11/11/2023,Standard,Monthly,,,13.57,888,32,0,ramesh,India,Meghalaya,Male,1/16/1967,,,,
+6620-WEGXR,7/28/2021,Organic,7/28/2024,Basic,Monthly,,,8,594,41,0,neha,India,Uttarakhand,Male,1/20/2002,,,,
+6628-SMWWK,3/31/2022,Refferal,3/31/2023,Premium,Monthly,,,24.37,1682,14,0,ritu,India,Kerala,Male,8/29/1963,,,,
+6636-HWCHI,3/25/2022,Paid,3/25/2024,Premium,Monthly,,,22.64,1409,23,0,ramkumar,India,Uttarakhand,Male,8/28/1980,,,,
+6640-TGIEV,3/15/2022,Organic,3/15/2024,Premium,Annual,,,24.76,1313,38,0,satish,India,Odisha,Female,4/12/1981,6/3/2024,N,36,3
+6685-IBUIP,2/26/2020,Organic,2/26/2021,Basic,Annual,,,8.35,896,45,0,seema,India,Maharashtra,Male,9/2/1996,,,,
+6701-YKVDM,7/19/2022,Refferal,7/19/2024,Basic,Monthly,,,9.4,452,25,0,tejendra,India,Rajasthan,Male,4/17/1978,,,,
+6708-NOIZX,3/29/2023,Paid,3/29/2025,Standard,Annual,,,17.51,799,45,0,geeta,India,Nagaland,Female,6/9/2004,,,,
+6718-BYSNC,9/22/2020,Paid,9/22/2021,Standard,Annual,3/28/2024,Poor customer service,12.82,846,97,1,sundar,India,Maharashtra,Female,9/24/1962,,,,
+6729-XTJIA,9/13/2020,Organic,9/13/2021,Standard,Annual,,,16.89,1815,26,0,chetan,India,Tripura,Male,7/15/1966,,,,
+6746-PJDNW,11/25/2020,Paid,11/25/2021,Standard,Annual,,,12,1144,21,0,radha,India,Himachal Pradesh,Female,5/12/1966,,,,
+6758-OWMWB,9/9/2022,Refferal,9/9/2023,Premium,Annual,,,23,1646,32,0,rekha,India,Odisha,Male,4/14/1982,,,,
+6767-EDMYK,6/3/2022,Refferal,6/3/2023,Standard,Monthly,,,15.09,831,52,0,mina,India,Punjab,Female,2/20/1995,,,,
+6794-BBNDJ,11/8/2020,Refferal,11/8/2021,Premium,Annual,,,21.79,1373,1,0,jyoti,India,Assam,Female,6/10/1979,,,,
+6797-ZDVNI,6/15/2021,Refferal,6/15/2023,Basic,Annual,,,10,596,38,0,shiva,India,Tamil Nadu,Male,9/15/1987,,,,
+6811-JQLNZ,8/17/2020,Paid,8/17/2021,Premium,Annual,,,27,1727,54,0,laxman,India,Uttar Pradesh,Male,10/19/1997,9/2/2021,N,37,1
+6821-CMGDH,2/28/2020,Paid,2/28/2021,Basic,Monthly,,,6.09,677,19,0,arjun,India,Punjab,Female,2/14/1982,,,,
+6838-VXKWR,3/22/2020,Refferal,3/22/2021,Standard,Annual,,,12.88,1026,18,0,govind,India,Tripura,Male,2/28/1975,,,,
+6849-JIFQO,8/30/2022,Refferal,8/30/2023,Premium,Annual,,,21.73,885,6,0,prakash,India,Maharashtra,Male,12/15/1980,,,,
+6858-CPSJC,1/1/2022,Refferal,1/1/2025,Premium,Monthly,,,22.41,1414,5,0,kavya,India,Rajasthan,Female,5/5/1963,3/3/2025,Y,65,5
+6873-UBQTN,7/29/2020,Organic,7/29/2022,Basic,Monthly,,,7.3,755,42,0,asha,India,Tripura,Female,9/25/1968,,,,
+6874-XCAAT,4/13/2022,Paid,4/13/2024,Basic,Monthly,,,8.62,361,3,0,sapna,India,Goa,Female,5/10/1968,,,,
+6878-VWMJG,3/17/2023,Refferal,3/17/2026,Premium,Annual,,,26.29,1382,30,0,renu,India,Uttar Pradesh,Female,4/19/2004,,,,
+6884-TFRWY,11/26/2022,Refferal,11/26/2024,Standard,Monthly,4/7/2025,Found better offer elsewhere,14.49,297,82,1,devendra,India,Nagaland,Male,6/29/1985,3/17/2025,Y,16,1
+6903-CEAWH,1/30/2021,Paid,1/30/2024,Premium,Monthly,,,21.43,1720,3,0,niranjan,India,Uttar Pradesh,Female,3/30/2005,,,,
+6920-DMEJY,8/1/2022,Refferal,8/1/2023,Standard,Monthly,,,13.79,779,96,0,usha,Nepal,Kathmandu,Female,2/23/1994,,,,
+6923-ZXYHA,8/23/2022,Organic,8/23/2024,Standard,Monthly,,,12.02,449,36,0,sunita,India,Tamil Nadu,Female,1/27/1969,,,,
+6959-CODKY,5/2/2020,Paid,5/2/2023,Basic,Monthly,,,6.29,442,8,0,madan,India,Meghalaya,Male,3/22/1959,,,,
+6978-PRXTU,9/18/2021,Organic,9/18/2024,Premium,Monthly,2/28/2025,Poor streaming quality,23.56,764,82,1,shalini,India,Telangana,Female,4/21/1999,1/26/2025,Y,2,3
+6998-XCNTQ,1/17/2021,Refferal,1/17/2022,Standard,Annual,1/31/2023,Technical issues,18.14,895,68,1,poonam,India,Maharashtra,Female,3/3/1978,12/29/2022,N,1,1
+7003-DONWL,10/7/2023,Paid,10/7/2024,Premium,Monthly,,,23.67,875,22,0,indira,India,West Bengal,Female,1/21/1990,,,,
+7013-KYUPS,7/20/2020,Paid,7/20/2022,Basic,Monthly,4/15/2023,Relocated abroad,6.59,371,69,1,usha,India,Uttarakhand,Female,1/21/1998,3/29/2023,Y,10,5
+7037-NDTND,2/3/2021,Refferal,2/3/2022,Standard,Monthly,,,14.65,1154,25,0,kavita,India,Punjab,Female,8/28/1972,,,,
+7037-TUQTZ,3/5/2023,Paid,3/5/2025,Basic,Monthly,,,8,436,31,0,vikram,India,Jharkhand,Female,6/3/1999,,,,
+7058-FBZBA,11/22/2020,Organic,11/22/2021,Basic,Monthly,,,7.33,777,48,0,jyoti,India,Punjab,Female,9/12/1987,,,,
+7072-ZDCLE,5/19/2023,Refferal,5/19/2026,Premium,Monthly,,,20.68,1234,54,0,Pankaj,India,Himachal Pradesh,Male,3/21/1961,,,,
+7101-BAAQF,2/3/2023,Organic,2/3/2025,Premium,Monthly,,,27.06,961,34,0,usha,India,Himachal Pradesh,Female,1/30/1966,,,,
+7112-NYIMU,3/28/2020,Organic,3/28/2022,Standard,Monthly,,,13.01,960,43,0,rahul,India,Manipur,Male,11/22/1964,,,,
+7116-ZAREK,10/6/2022,Paid,10/6/2023,Standard,Monthly,,,17,1192,55,0,dilip,India,Rajasthan,Male,10/7/1969,8/24/2023,Y,47,4
+7122-ZIPCX,12/24/2022,Organic,12/24/2024,Premium,Monthly,,,20.51,798,19,0,anil,India,Telangana,Female,2/26/1967,5/13/2025,N,62,4
+7125-WPONG,8/27/2022,Paid,8/27/2025,Standard,Monthly,,,14,978,54,0,manju,India,Karnataka,Male,11/20/2001,,,,
+7129-CPDHF,9/11/2020,Paid,9/11/2023,Standard,Annual,,,13,1380,25,0,radha,India,Rajasthan,Female,10/1/2001,,,,
+7131-OKPFG,10/6/2023,Paid,10/6/2026,Basic,Annual,,,7.58,193,44,0,madan,India,Delhi,Female,6/24/1987,,,,
+7155-SFLOZ,10/1/2020,Paid,10/1/2022,Standard,Annual,,,15.18,1380,8,0,kiran,India,Rajasthan,Male,3/18/1967,,,,
+7157-SXIMR,7/4/2020,Refferal,7/4/2022,Premium,Monthly,,,26.27,2152,2,0,kishore,India,Tamil Nadu,Female,10/4/1989,,,,
+7181-YDFEO,1/14/2021,Paid,1/14/2023,Standard,Annual,,,13.01,1076,46,0,vandana,India,Tamil Nadu,Female,9/8/1964,,,,
+7185-QDXBL,2/2/2020,Paid,2/2/2023,Basic,Annual,,,6.98,482,14,0,urmila,India,Rajasthan,Male,8/26/1987,,,,
+7185-SDAEM,11/25/2023,Organic,11/25/2024,Basic,Monthly,,,9.34,290,39,0,balram,India,Haryana,Male,1/15/1958,5/23/2024,N,27,1
+7198-OERPI,5/23/2020,Paid,5/23/2023,Basic,Monthly,,,6.6,775,5,0,kishore,India,Tripura,Female,3/7/1971,,,,
+7213-UXLLQ,11/5/2021,Paid,11/5/2022,Basic,Monthly,,,7.87,703,26,0,madan,India,Tamil Nadu,Female,8/2/1999,5/20/2026,N,81,2
+7223-HMZSK,11/2/2023,Organic,11/2/2025,Standard,Monthly,,,16.42,533,45,0,sushma,India,Meghalaya,Male,9/14/1958,,,,
+7247-ZUJZQ,11/11/2020,Organic,11/11/2021,Basic,Monthly,12/3/2023,Family plan cancelled,7.32,445,90,1,bimla,India,Meghalaya,Male,6/22/1987,11/8/2023,N,7,2
+7251-KJRRH,2/2/2021,Paid,2/2/2022,Basic,Annual,,,8,523,24,0,rangadevi,India,Madhya Pradesh,Male,4/17/1968,,,,
+7255-CNDEL,4/12/2021,Paid,4/12/2024,Premium,Annual,,,24.96,2550,49,0,Vinod,India,Haryana,Female,1/8/1986,,,,
+7264-HXUSE,1/10/2020,Organic,1/10/2024,Premium,Annual,,,22.08,2045,55,0,ramesh,India,Bihar,Male,11/14/2003,,,,
+7279-MBKRJ,6/29/2021,Paid,6/29/2022,Premium,Annual,9/25/2024,Switched to competitor,27.02,1458,77,1,prakash,India,Meghalaya,Male,6/4/2004,8/31/2024,Y,26,2
+7301-RLFQA,11/17/2020,Paid,11/17/2024,Premium,Annual,,,25.75,1662,34,0,aarti,India,Tamil Nadu,Male,4/23/1974,,,,
+7319-SMPJS,9/25/2021,Refferal,9/25/2025,Premium,Annual,,,20.17,1830,24,0,ashok,India,Himachal Pradesh,Male,8/31/2002,4/29/2023,Y,48,3
+7325-JAGVF,2/9/2023,Paid,2/9/2026,Standard,Annual,,,15.35,845,37,0,kanta,India,Manipur,Female,8/28/1973,,,,
+7357-VDGKM,7/11/2020,Organic,7/11/2022,Premium,Monthly,,,23.8,1936,47,0,naresh,India,Karnataka,Male,8/2/1984,,,,
+7370-CRBFT,6/25/2022,Refferal,6/25/2024,Basic,Annual,,,8.09,363,6,0,sunil,Nepal,Kathmandu,Male,7/12/1975,,,,
+7375-OVDEM,4/15/2020,Refferal,4/15/2023,Basic,Monthly,,,9,582,41,0,anju,Nepal,Kathmandu,Male,4/24/2002,,,,
+7387-MCJTK,11/29/2021,Paid,11/29/2023,Basic,Monthly,3/7/2025,Family plan cancelled,8.69,382,98,1,arun,India,Chhattisgarh,Male,10/22/1969,2/6/2025,N,11,2
+7427-FZFMN,11/6/2021,Organic,11/6/2022,Standard,Monthly,2/23/2025,Family plan cancelled,17.68,1045,80,1,hemant,India,Assam,Male,9/30/2002,,,,
+7440-CRZJX,7/10/2023,Paid,7/10/2024,Premium,Monthly,,,20.87,962,53,0,vikram,India,Uttarakhand,Male,5/28/1980,6/15/2025,N,59,2
+7455-LFPKQ,3/11/2022,Organic,3/11/2026,Basic,Annual,,,6.37,259,7,0,deepa,India,Jharkhand,Male,3/29/1977,,,,
+7456-PTLOI,8/14/2023,Organic,8/14/2026,Basic,Annual,,,6.67,263,40,0,brij,India,Kerala,Male,3/27/1964,,,,
+7478-SKXCQ,7/21/2023,Paid,7/21/2024,Standard,Monthly,,,14.61,648,15,0,vikram,India,West Bengal,Female,7/16/2002,3/11/2025,Y,43,4
+7500-LSFCQ,8/20/2021,Organic,8/20/2023,Standard,Monthly,3/7/2025,Poor streaming quality,14.15,431,60,1,bhupendra,India,Uttar Pradesh,Female,12/21/1978,3/6/2025,N,29,3
+7518-UIADU,12/9/2023,Paid,12/9/2026,Premium,Annual,,,24.94,800,20,0,subhash,India,Punjab,Female,12/22/1972,12/10/2024,Y,28,5
+7522-YCYFE,8/2/2022,Organic,8/2/2024,Standard,Annual,,,18.18,1158,36,0,laxman,India,Haryana,Male,2/20/1991,,,,
+7537-RQEMS,6/23/2021,Paid,6/23/2022,Standard,Annual,,,18.48,860,36,0,rangadevi,India,Haryana,Female,1/4/1965,,,,
+7544-GBUBW,11/15/2021,Paid,11/15/2025,Standard,Annual,,,17.89,870,21,0,jyoti,India,Delhi,Female,2/2/1963,,,,
+7550-VWKSI,2/25/2021,Paid,2/25/2024,Standard,Monthly,,,12.49,933,46,0,shanti,India,Maharashtra,Male,3/23/1963,,,,
+7568-KVMUO,1/10/2022,Organic,1/10/2023,Standard,Annual,,,14.6,684,41,0,lata,India,Himachal Pradesh,Female,1/30/1958,,,,
+7570-SXQEE,8/21/2021,Paid,8/21/2022,Basic,Monthly,,,8.49,457,36,0,bimla,India,Rajasthan,Male,12/20/1965,,,,
+7642-AAQUC,5/2/2020,Refferal,5/2/2023,Premium,Monthly,,,23.49,2629,3,0,dilip,India,Tamil Nadu,Female,1/5/1988,8/22/2024,Y,68,4
+7647-ORVIM,1/26/2023,Paid,1/26/2026,Premium,Monthly,1/14/2024,Too expensive,21.47,769,64,1,sunita,India,Gujarat,Male,1/13/2005,12/14/2023,N,18,3
+7656-MMFWC,5/10/2020,Refferal,5/10/2024,Premium,Annual,,,22.33,2655,30,0,jyoti,India,Tamil Nadu,Female,5/23/1984,,,,
+7668-OLOMV,6/3/2022,Paid,6/3/2025,Premium,Monthly,8/28/2025,Slow internet speed,27.49,1288,98,1,manoj,India,Punjab,Female,5/5/2001,8/10/2025,N,31,2
+7682-WTNTW,9/24/2022,Paid,9/24/2025,Standard,Annual,,,16.38,959,26,0,priya,India,Haryana,Male,2/16/2002,,,,
+7691-NPWNA,10/30/2020,Organic,10/30/2022,Premium,Monthly,,,21.09,1328,44,0,arjun,India,Odisha,Female,1/19/1997,,,,
+7696-FKBLE,3/11/2020,Organic,3/11/2024,Basic,Annual,,,7.16,842,52,0,neha,India,Rajasthan,Female,11/9/1978,,,,
+7697-LUGIX,8/30/2022,Organic,8/30/2023,Standard,Monthly,,,13.87,885,31,0,pooja,India,Telangana,Male,8/22/1997,,,,
+7745-SCEFZ,1/25/2021,Paid,1/25/2024,Basic,Monthly,2/6/2023,Relocated abroad,6.69,320,73,1,kanta,India,Tripura,Male,5/2/1960,1/6/2023,Y,34,2
+7761-WKSXC,1/15/2023,Organic,1/15/2024,Premium,Monthly,,,20.91,951,31,0,narendra,India,Kerala,Female,12/17/1999,,,,
+7767-WUUJS,9/4/2023,Refferal,9/4/2024,Premium,Monthly,,,26.93,1140,13,0,manisha,India,Assam,Male,5/23/1964,,,,
+7814-IMJYS,1/21/2020,Refferal,1/21/2023,Basic,Monthly,,,8.24,500,47,0,chandan,India,Chhattisgarh,Female,4/5/1960,,,,
+7827-TCYRT,1/19/2022,Paid,1/19/2025,Basic,Monthly,,,9.98,442,48,0,bimla,India,Jharkhand,Male,5/16/1980,,,,
+7831-TRINO,6/22/2021,Refferal,6/22/2022,Basic,Annual,,,7.59,600,31,0,varsha,Nepal,Kathmandu,Female,5/25/1970,,,,
+7845-USZSD,3/20/2021,Organic,3/20/2022,Premium,Monthly,,,23.17,1345,51,0,dinesh,India,Meghalaya,Male,4/15/1968,,,,
+7851-HDNLK,9/17/2020,Refferal,9/17/2022,Basic,Annual,,,8.26,801,50,0,suresh,India,Meghalaya,Female,1/17/1964,,,,
+7872-ALTWX,8/30/2022,Paid,8/30/2024,Premium,Monthly,,,21.02,751,83,0,sunil,India,Tripura,Female,2/10/1996,,,,
+7892-GVNOA,3/1/2022,Refferal,3/1/2025,Standard,Monthly,5/23/2025,Billing issues,15.66,735,66,1,yogesh,India,Manipur,Male,12/26/2004,4/16/2025,N,10,5
+7892-LSVBL,2/12/2021,Organic,2/12/2023,Premium,Annual,,,24.12,1755,31,0,raghav,India,Uttarakhand,Female,6/3/1980,,,,
+7917-BJQFZ,8/21/2020,Paid,8/21/2021,Standard,Monthly,,,14.17,954,24,0,ashok,India,Delhi,Female,11/23/1973,,,,
+7933-XSFUL,7/20/2023,Paid,7/20/2024,Standard,Annual,,,16.12,794,11,0,kishore,India,Punjab,Female,9/6/1984,,,,
+7952-WAHIH,4/11/2021,Paid,4/11/2025,Basic,Annual,,,8.24,456,46,0,shiva,India,Uttar Pradesh,Female,9/20/2001,3/16/2025,Y,24,5
+7956-KRORA,12/24/2023,Paid,12/24/2025,Premium,Monthly,,,27.04,1147,16,0,deepa,India,Jharkhand,Female,9/2/1993,10/10/2025,Y,45,2
+7976-KGNXE,12/17/2020,Paid,12/17/2023,Basic,Monthly,,,5.99,303,5,0,shobha,India,Telangana,Female,9/15/2006,11/23/2025,Y,75,5
+7982-GQMSW,8/2/2022,Paid,8/2/2025,Basic,Annual,,,9.8,679,39,0,rajesh,India,Punjab,Male,4/30/1965,,,,
+7998-BATUK,2/15/2022,Organic,2/15/2025,Premium,Monthly,,,26.08,1215,28,0,sunita,India,Himachal Pradesh,Male,10/31/1997,,,,
+8012-YFUCS,5/6/2023,Organic,5/6/2024,Standard,Monthly,,,17,655,20,0,kavita,India,Himachal Pradesh,Male,1/2/1959,12/27/2023,N,68,3
+8013-PCSVV,11/27/2020,Paid,11/27/2022,Standard,Annual,,,12.22,831,9,0,kamla,India,Karnataka,Female,3/28/2001,,,,
+8016-LPPEX,11/26/2021,Paid,11/26/2022,Basic,Monthly,,,7.74,413,44,0,pushpa,India,Himachal Pradesh,Female,8/26/1973,,,,
+8026-QUIHT,2/15/2023,Refferal,2/15/2025,Standard,Monthly,,,13.5,677,49,0,ashok,India,Delhi,Male,4/7/1990,,,,
+8082-UKAZY,6/29/2022,Paid,6/29/2023,Standard,Monthly,,,13.16,642,30,0,naresh,India,Haryana,Female,5/19/1984,,,,
+8085-BJTJV,12/11/2021,Paid,12/11/2023,Standard,Monthly,3/2/2023,Relocated abroad,14.45,562,99,1,rajesh,India,Punjab,Male,3/5/1992,2/12/2023,Y,34,2
+8089-VUXXG,9/10/2022,Refferal,9/10/2025,Premium,Monthly,,,25.99,1704,31,0,ramesh,India,Uttarakhand,Male,5/20/1968,,,,
+8099-PEHVD,2/1/2023,Refferal,2/1/2024,Premium,Monthly,10/10/2023,Poor customer service,21.5,670,67,1,geeta,India,Gujarat,Female,8/11/1998,8/27/2023,N,6,2
+8111-YQOWV,8/28/2023,Refferal,8/28/2026,Standard,Monthly,,,18.85,711,26,0,kiran,Nepal,Kathmandu,Female,10/19/1986,,,,
+8117-UZDOM,8/25/2023,Paid,8/25/2025,Basic,Monthly,,,6.66,344,48,0,radha,India,Tamil Nadu,Female,6/18/1980,,,,
+8128-JFUVJ,8/14/2020,Organic,8/14/2023,Basic,Annual,,,8.32,780,29,0,tejendra,India,Uttarakhand,Male,3/5/1988,5/29/2025,N,70,4
+8130-AVDCW,6/20/2022,Organic,6/20/2025,Premium,Monthly,5/9/2023,Found better offer elsewhere,25.99,894,85,1,rangadevi,India,Madhya Pradesh,Male,8/12/1990,3/30/2023,N,25,4
+8132-NHLDC,9/19/2022,Refferal,9/19/2023,Basic,Annual,1/4/2024,Moved to different city,9.66,488,65,1,madan,India,Assam,Female,12/4/1960,1/3/2024,N,4,4
+8134-XOYJZ,7/31/2020,Organic,7/31/2024,Standard,Annual,,,18.51,1075,51,0,manju,India,Delhi,Female,8/17/1988,,,,
+8143-KGESO,9/22/2020,Refferal,9/22/2021,Premium,Monthly,,,24.74,1771,41,0,shobha,India,Tripura,Female,9/9/1974,2/6/2026,N,74,1
+8172-HPVWX,9/13/2021,Refferal,9/13/2022,Standard,Annual,,,16.11,1427,46,0,maya,India,Uttarakhand,Male,9/25/1980,9/13/2024,Y,43,2
+8179-LNBZJ,2/17/2022,Organic,2/17/2023,Premium,Monthly,,,22.75,1174,16,0,yogesh,India,Uttarakhand,Male,3/14/1973,,,,
+8186-XKSBG,12/12/2022,Paid,12/12/2025,Standard,Annual,1/11/2025,Poor streaming quality,15.83,340,73,1,pooja,India,Meghalaya,Female,5/27/1965,12/16/2024,Y,20,2
+8215-QUXRC,1/29/2020,Paid,1/29/2021,Premium,Monthly,,,22.73,1949,1,0,Umesh,India,West Bengal,Male,10/14/1994,1/30/2025,Y,73,4
+8223-THKRK,1/6/2023,Refferal,1/6/2026,Basic,Monthly,,,6.96,255,54,0,sushma,India,Delhi,Female,4/23/1972,,,,
+8256-WMZIN,1/19/2020,Organic,1/19/2021,Basic,Monthly,,,8.87,666,39,0,varsha,India,Manipur,Male,1/28/1999,,,,
+8263-NCXKO,6/28/2020,Paid,6/28/2021,Basic,Annual,,,7.66,817,33,0,sunita,India,Tripura,Female,5/4/1977,,,,
+8287-GILCL,8/25/2022,Refferal,8/25/2024,Standard,Annual,6/6/2025,Poor streaming quality,18.31,516,90,1,reema,India,Gujarat,Male,3/18/1963,6/4/2025,Y,11,1
+8321-CASYP,1/26/2022,Organic,1/26/2025,Standard,Monthly,,,18.06,1312,40,0,chetan,India,Uttarakhand,Male,5/19/1995,,,,
+8331-IGGKW,5/10/2023,Paid,5/10/2025,Premium,Annual,,,25.17,1393,51,0,krishan,India,Haryana,Female,8/6/1965,,,,
+8331-MRFYI,7/6/2021,Refferal,7/6/2024,Standard,Monthly,,,17.26,1219,8,0,aarti,India,Himachal Pradesh,Female,1/19/1987,,,,
+8339-NBZNR,4/13/2021,Organic,4/13/2024,Standard,Annual,,,13.13,715,1,0,ravi,India,Rajasthan,Female,11/7/1965,,,,
+8342-DUHKM,11/13/2023,Paid,11/13/2027,Basic,Annual,,,9.07,418,35,0,kalpana,India,Kerala,Female,4/23/1990,9/13/2025,Y,41,3
+8361-IDHOQ,10/19/2021,Paid,10/19/2024,Premium,Monthly,,,23.68,1580,6,0,devendra,India,Bihar,Male,4/3/1965,1/28/2022,N,44,1
+8363-MJNNL,6/25/2022,Paid,6/25/2023,Standard,Monthly,,,17.31,769,24,0,yash,India,West Bengal,Female,3/9/1995,,,,
+8368-BLJUW,3/1/2023,Organic,3/1/2025,Premium,Monthly,,,21.22,1168,46,0,Bhupendra,India,Bihar,Male,10/17/1995,,,,
+8373-MPQZU,3/6/2020,Organic,3/6/2021,Standard,Annual,,,17.76,1701,15,0,devendra,India,Haryana,Female,6/26/1968,,,,
+8378-NKLIN,1/28/2021,Paid,1/28/2023,Premium,Monthly,,,27.86,1573,52,0,poonam,India,Rajasthan,Female,8/31/1968,,,,
+8397-HQEDZ,11/5/2021,Organic,11/5/2023,Standard,Monthly,,,14.55,900,22,0,mahesh,India,Tamil Nadu,Male,1/7/1991,,,,
+8431-FOPMZ,11/22/2020,Paid,11/22/2021,Basic,Monthly,,,7.16,653,51,0,kamala,India,Odisha,Female,7/22/1976,,,,
+8465-UGJMN,9/4/2020,Refferal,9/4/2022,Premium,Monthly,,,24.4,2041,6,0,tarun,India,Jharkhand,Female,5/15/1967,,,,
+8467-NNSCX,2/2/2020,Refferal,2/2/2023,Standard,Monthly,,,15.3,1020,47,0,lata,India,Odisha,Female,2/19/1983,4/28/2021,Y,21,2
+8468-XSTUE,7/6/2020,Paid,7/6/2022,Standard,Annual,,,15.55,1012,25,0,anita,India,Punjab,Female,2/18/2000,,,,
+8497-MIUWM,2/25/2020,Refferal,2/25/2022,Standard,Monthly,,,17.42,2144,24,0,yash,India,Assam,Male,2/10/2001,3/18/2026,Y,40,5
+8497-MKFIU,8/16/2021,Organic,8/16/2024,Basic,Annual,,,8,741,43,0,sarita,India,Delhi,Male,2/17/1983,6/14/2024,N,72,5
+8505-DTJCW,10/26/2022,Paid,10/26/2024,Standard,Annual,,,17.89,1250,47,0,vijay,India,Tamil Nadu,Male,8/6/1990,3/29/2024,Y,23,2
+8525-YSJED,7/23/2023,Refferal,7/23/2025,Basic,Monthly,,,9.77,271,42,0,rahul,India,Rajasthan,Male,4/12/1961,6/28/2024,N,74,5
+8535-ZAGTU,11/28/2021,Paid,11/28/2022,Standard,Annual,7/18/2024,Moved to different city,17.48,842,90,1,urmila,India,Goa,Female,1/13/1961,7/7/2024,N,33,4
+8545-KRHEP,11/21/2021,Paid,11/21/2024,Basic,Annual,,,8.3,680,12,0,raghav,India,Punjab,Male,6/3/1991,3/25/2025,N,43,5
+8550-CCNNA,12/13/2021,Paid,12/13/2025,Standard,Annual,,,16.85,1458,17,0,priya,India,Odisha,Female,4/3/1997,,,,
+8575-HTQIG,5/30/2021,Refferal,5/30/2022,Premium,Annual,,,24.07,1128,35,0,ashok,India,Rajasthan,Male,8/25/1970,4/6/2022,N,52,3
+8603-FAUXU,8/11/2021,Organic,8/11/2022,Premium,Monthly,,,20.12,1926,6,0,bal,India,Delhi,Male,7/9/2003,,,,
+8621-LNPXT,4/2/2023,Refferal,4/2/2025,Premium,Annual,,,22.76,1319,12,0,babita,India,Haryana,Male,6/22/1984,,,,
+8628-YZXVT,5/9/2021,Organic,5/9/2023,Basic,Monthly,,,10,930,48,0,govind,India,Karnataka,Male,5/16/1972,,,,
+8635-OMLGW,6/28/2023,Paid,6/28/2024,Standard,Monthly,,,17.07,792,28,0,kusum,India,Assam,Male,3/19/1997,3/1/2024,N,47,3
+8636-JZCVC,2/17/2020,Organic,2/17/2024,Standard,Annual,,,15.39,1024,18,0,Manoj,India,Himachal Pradesh,Male,7/7/1970,7/27/2025,N,26,3
+8674-DOXUF,7/8/2020,Paid,7/8/2024,Premium,Annual,,,25.18,2803,44,0,sarita,Nepal,Kathmandu,Male,1/26/1970,9/13/2023,N,50,4
+8685-GYEXL,10/7/2021,Refferal,10/7/2023,Basic,Monthly,,,6.83,399,44,0,geeta,India,Kerala,Female,4/10/1995,,,,
+8688-BCHRF,8/26/2020,Paid,8/26/2022,Standard,Annual,,,14.66,1336,37,0,rahul,India,Manipur,Male,3/25/1988,,,,
+8695-KOMZT,10/7/2021,Refferal,10/7/2022,Standard,Monthly,,,18.19,822,29,0,vandana,India,Gujarat,Male,10/26/1971,,,,
+8700-RFMDY,3/12/2023,Paid,3/12/2024,Premium,Annual,,,27.45,1573,38,0,prakash,India,Goa,Male,7/5/2000,,,,
+8713-JXPIP,11/6/2021,Organic,11/6/2022,Basic,Monthly,10/24/2023,Network coverage issues,6.35,270,76,1,sarita,India,Uttar Pradesh,Male,9/10/1958,,,,
+8742-NYCGN,9/3/2022,Paid,9/3/2026,Premium,Annual,,,26.41,1452,52,0,narendra,India,West Bengal,Female,4/14/2007,,,,
+8743-OPHVT,7/30/2020,Organic,7/30/2023,Standard,Annual,,,14.74,950,7,0,durga,India,Tripura,Male,4/19/1990,,,,
+8743-QNWDV,6/19/2022,Organic,6/19/2023,Basic,Annual,,,9.83,391,16,0,ashok,India,Tripura,Male,11/30/1964,,,,
+8768-SUOCN,3/20/2021,Paid,3/20/2022,Basic,Monthly,,,9.61,924,29,0,kusum,India,Madhya Pradesh,Male,6/8/1993,,,,
+8779-FISFF,10/13/2021,Paid,10/13/2023,Standard,Annual,,,12.15,1046,53,0,tarun,India,Goa,Male,10/8/1961,,,,
+8812-NXESI,9/18/2023,Refferal,9/18/2026,Basic,Monthly,9/14/2025,Moved to different city,6.53,304,90,1,niranjan,India,Gujarat,Male,11/17/1995,8/25/2025,N,7,4
+8812-YPWQO,7/17/2022,Organic,7/17/2024,Standard,Annual,,,18.64,1129,5,0,umesh,India,Odisha,Male,7/31/1998,,,,
+8816-ECHQN,8/15/2021,Paid,8/15/2025,Basic,Annual,,,6.5,576,27,0,arjun,India,Bihar,Male,4/14/1962,,,,
+8831-NHBZG,7/9/2020,Paid,7/9/2021,Basic,Annual,,,6.7,410,7,0,satish,India,Bihar,Female,6/22/1958,,,,
+8831-YVGFP,12/3/2022,Refferal,12/3/2026,Basic,Annual,1/31/2024,No longer needed,6.65,123,65,1,arjun,India,Manipur,Female,2/27/1981,12/18/2023,N,13,4
+8838-WJASV,8/4/2021,Organic,8/4/2024,Premium,Monthly,4/18/2023,Network coverage issues,23.1,1040,70,1,sushma,India,Jharkhand,Male,10/16/1967,3/18/2023,N,6,2
+8854-HVTYB,1/17/2020,Paid,1/17/2023,Premium,Monthly,,,23.64,2931,40,0,gaurav,India,Maharashtra,Female,10/8/1992,,,,
+8856-DVUXX,12/29/2021,Refferal,12/29/2023,Basic,Annual,,,7.3,430,16,0,lata,India,Uttarakhand,Male,12/6/1977,,,,
+8859-JSDOH,7/26/2020,Refferal,7/26/2022,Premium,Annual,,,23.38,2507,48,0,kamla,India,Gujarat,Male,11/19/1985,,,,
+8863-QGMBF,10/26/2022,Refferal,10/26/2024,Premium,Annual,,,23.4,794,27,0,satish,India,Madhya Pradesh,Female,5/31/2006,,,,
+8865-NCSTP,11/30/2020,Paid,11/30/2024,Premium,Annual,,,24.35,2050,51,0,dilip,India,Uttar Pradesh,Female,7/13/1990,,,,
+8877-QYFXX,2/27/2021,Paid,2/27/2022,Standard,Monthly,10/30/2024,Poor customer service,13.37,487,93,1,amit,India,Bihar,Male,7/20/1959,10/24/2024,Y,32,2
+8912-RFRWQ,6/6/2022,Paid,6/6/2024,Standard,Monthly,,,16.39,1121,10,0,harish,India,Himachal Pradesh,Female,9/14/1995,,,,
+8942-HLTAA,1/16/2023,Refferal,1/16/2025,Premium,Annual,,,21.72,687,51,0,pushpa,India,Haryana,Male,1/23/2007,,,,
+8945-WXIWW,9/25/2020,Refferal,9/25/2023,Basic,Monthly,,,6.46,686,45,0,sunita,India,Rajasthan,Male,11/5/1993,,,,
+8984-MNWJT,5/9/2023,Refferal,5/9/2025,Premium,Monthly,,,25.56,922,22,0,veena,India,Telangana,Male,12/25/1964,8/23/2024,Y,79,2
+8987-ZDTSP,11/11/2020,Organic,11/11/2022,Basic,Monthly,,,9.74,841,21,0,gaurav,India,Chhattisgarh,Male,10/31/1980,,,,
+9006-IVPBS,11/14/2022,Paid,11/14/2024,Basic,Monthly,,,7.7,503,54,0,madan,India,Telangana,Male,12/13/1978,,,,
+9008-HYVWT,11/1/2023,Organic,11/1/2026,Standard,Monthly,,,12.67,610,23,0,chetan,India,Himachal Pradesh,Female,10/31/2002,,,,
+9014-BWFKT,8/6/2020,Organic,8/6/2023,Standard,Monthly,2/18/2025,Too expensive,16.51,1006,73,1,aarti,India,Kerala,Female,10/25/1984,1/26/2025,Y,10,2
+9020-BUSMA,4/16/2021,Paid,4/16/2022,Premium,Annual,,,26,1361,48,0,krishan,India,Uttar Pradesh,Male,1/12/1963,,,,
+9030-ZCBGE,10/11/2023,Refferal,10/11/2026,Basic,Annual,,,9.68,503,6,0,devendra,India,Madhya Pradesh,Male,10/25/1970,,,,
+9037-NVYZY,7/27/2023,Refferal,7/27/2025,Premium,Annual,,,23.21,1214,7,0,ritu,India,Gujarat,Male,9/23/1980,,,,
+9058-EZIKG,7/11/2023,Refferal,7/11/2025,Standard,Monthly,,,16.13,584,6,0,kiran,India,Uttarakhand,Male,9/28/1985,,,,
+9062-AZDNM,8/12/2020,Organic,8/12/2023,Basic,Annual,4/18/2023,Technical issues,9.71,784,85,1,babita,India,Jharkhand,Female,7/17/1962,3/4/2023,N,33,4
+9070-MOTQK,4/26/2020,Paid,4/26/2021,Standard,Monthly,,,18.49,2126,26,0,mahesh,India,Haryana,Male,12/19/1979,,,,
+9070-ZQEAR,3/27/2023,Paid,3/27/2026,Premium,Monthly,6/2/2023,Technical issues,22.64,400,75,1,yogesh,India,Rajasthan,Male,3/25/1992,5/8/2023,Y,34,4
+9077-GNGQL,2/12/2021,Paid,2/12/2023,Standard,Monthly,,,14.51,823,25,0,sunil,India,Maharashtra,Female,3/2/1983,,,,
+9086-PMPAF,10/6/2023,Refferal,10/6/2025,Standard,Annual,,,13.18,443,15,0,narendra,India,Odisha,Female,8/10/1977,,,,
+9087-HLKUX,6/18/2022,Paid,6/18/2025,Basic,Annual,11/26/2025,Network coverage issues,9.24,375,78,1,preeti,India,Manipur,Male,6/26/1980,10/16/2025,Y,5,5
+9088-CFGDA,2/10/2023,Refferal,2/10/2026,Basic,Monthly,,,9.65,488,30,0,suresh,India,Assam,Female,3/6/1990,,,,
+9089-DQUJZ,12/12/2021,Paid,12/12/2022,Standard,Annual,,,13.57,1038,49,0,vidya,India,Maharashtra,Male,6/16/1986,,,,
+9104-AVTQG,6/1/2020,Organic,6/1/2024,Standard,Annual,,,18.95,1749,4,0,govind,India,Madhya Pradesh,Female,12/26/1984,,,,
+9126-FWAIV,2/22/2021,Organic,2/22/2023,Basic,Annual,,,9.85,770,36,0,ashok,India,Karnataka,Male,1/24/1961,,,,
+9128-IONML,5/19/2021,Paid,5/19/2024,Standard,Annual,,,16.18,1246,14,0,radha,India,Nagaland,Male,7/5/1995,6/23/2026,Y,82,3
+9132-RHFPT,5/14/2023,Organic,5/14/2024,Basic,Annual,,,6.81,260,19,0,sarita,India,Manipur,Male,11/29/1981,,,,
+9135-JIMFX,1/3/2022,Refferal,1/3/2023,Standard,Annual,,,14.48,758,28,0,neha,India,Delhi,Male,2/16/1968,11/1/2022,Y,50,2
+9145-MNXFW,9/16/2023,Refferal,9/16/2027,Standard,Annual,,,14.36,503,18,0,Kishore,India,Bihar,Female,4/22/1986,,,,
+9147-YXJRZ,7/25/2021,Paid,7/25/2023,Standard,Annual,,,18.31,871,23,0,nisha,India,Goa,Male,6/13/1968,5/22/2025,Y,40,1
+9158-SIXGV,9/9/2020,Paid,9/9/2022,Premium,Annual,,,27.44,2002,21,0,pooja,India,West Bengal,Male,2/16/1972,,,,
+9168-ZMLBU,11/17/2022,Paid,11/17/2025,Basic,Monthly,,,7.96,289,34,0,chandan,India,Uttar Pradesh,Female,5/15/1998,,,,
+9185-XLKTZ,12/10/2023,Refferal,12/10/2027,Standard,Annual,,,17.58,800,42,0,krishan,India,Jharkhand,Female,4/6/1997,,,,
+9196-DWRXX,7/5/2023,Organic,7/5/2025,Basic,Annual,10/17/2024,App keeps crashing,9.98,282,84,1,ritu,India,Tripura,Male,3/25/2001,,,,
+9200-QZYCU,9/19/2021,Organic,9/19/2023,Standard,Monthly,,,18.11,808,23,0,bal,India,Jharkhand,Male,7/2/1994,3/26/2022,N,21,3
+9237-HLAMX,4/3/2022,Refferal,4/3/2025,Standard,Annual,,,16.39,870,54,0,sunita,India,Nagaland,Female,9/21/1978,,,,
+9240-MLTCT,10/19/2023,Refferal,10/19/2025,Standard,Monthly,,,16.13,724,44,0,neha,India,Himachal Pradesh,Female,5/26/1967,,,,
+9252-TSXTC,4/26/2021,Organic,4/26/2024,Basic,Monthly,,,6.82,496,42,0,renu,India,Punjab,Female,5/27/1980,,,,
+9275-OBLZW,6/4/2020,Organic,6/4/2021,Standard,Monthly,,,17.08,1602,48,0,kamala,India,West Bengal,Male,9/3/2002,6/26/2026,N,62,4
+9288-BSJBZ,5/5/2021,Refferal,5/5/2022,Standard,Annual,,,18.09,1495,36,0,varsha,India,Telangana,Female,3/12/2007,,,,
+9311-RFVQB,6/13/2020,Organic,6/13/2023,Basic,Monthly,3/5/2025,Poor customer service,8.16,554,72,1,chetan,India,Kerala,Male,1/6/1987,2/6/2025,N,23,1
+9362-TEPOL,11/10/2022,Organic,11/10/2025,Basic,Monthly,6/12/2023,No longer needed,6.03,201,99,1,satish,India,Himachal Pradesh,Male,11/2/2007,5/19/2023,N,4,2
+9476-WEVHX,5/20/2022,Refferal,5/20/2023,Standard,Monthly,,,14.21,843,44,0,kanta,India,Gujarat,Female,10/17/1989,,,,
+9505-OUTVO,4/23/2020,Organic,4/23/2021,Premium,Monthly,12/14/2023,Slow internet speed,27.11,1320,96,1,sunita,India,Meghalaya,Male,9/24/1994,11/27/2023,N,29,2
+9514-IEUZN,9/14/2023,Organic,9/14/2024,Premium,Monthly,,,22,764,17,0,dilip,India,Haryana,Male,12/28/1999,,,,
+9517-FVNMN,12/28/2022,Organic,12/28/2024,Standard,Monthly,,,14.82,489,40,0,bal,India,Maharashtra,Female,10/16/1987,4/6/2024,N,59,3
+9522-JLKGQ,12/8/2020,Refferal,12/8/2022,Basic,Annual,,,8.05,447,4,0,laxman,India,Meghalaya,Female,1/9/1984,,,,
+9536-UEPAO,4/26/2021,Refferal,4/26/2024,Premium,Monthly,,,25.63,1339,24,0,sarita,India,Manipur,Female,4/26/1996,,,,
+9541-VDMHL,3/25/2023,Organic,3/25/2024,Basic,Annual,,,7.61,354,41,0,sushma,India,Goa,Male,12/4/1976,7/21/2025,N,29,2
+9547-DRTEK,1/4/2023,Refferal,1/4/2025,Standard,Annual,,,13.06,515,40,0,urmila,India,Gujarat,Female,2/27/1984,,,,
+9548-WQBKQ,2/2/2023,Paid,2/2/2024,Basic,Annual,,,7.52,252,27,0,aarti,India,Odisha,Female,10/17/1969,,,,
+9561-LIRDT,7/1/2023,Organic,7/1/2025,Premium,Annual,,,25.97,1420,43,0,sarita,India,Meghalaya,Male,7/18/1967,,,,
+9570-ONSXJ,9/30/2022,Paid,9/30/2023,Standard,Annual,,,15.16,814,13,0,manoj,India,Jharkhand,Male,4/18/1981,,,,
+9579-WRLGN,7/13/2021,Organic,7/13/2023,Basic,Monthly,,,7.17,490,34,0,harish,India,Uttar Pradesh,Male,11/3/2002,,,,
+9583-KWDST,11/25/2022,Paid,11/25/2023,Standard,Monthly,,,16.63,1112,42,0,shalini,India,Karnataka,Male,1/3/2003,5/2/2024,N,33,5
+9597-ZFWFM,6/8/2020,Refferal,6/8/2022,Basic,Monthly,,,6.72,550,16,0,brij,India,Haryana,Male,9/6/2005,,,,
+9607-AHJHU,3/24/2023,Organic,3/24/2027,Standard,Annual,6/21/2024,Slow internet speed,14.08,427,90,1,govind,India,Odisha,Female,3/21/1978,,,,
+9613-GHNNM,1/23/2022,Organic,1/23/2023,Premium,Monthly,,,21.18,1772,15,0,rajendra,India,Telangana,Male,10/11/1987,,,,
+9632-MKKKT,12/22/2020,Paid,12/22/2021,Standard,Annual,,,12.63,1066,16,0,Kavya,India,Tripura,Female,9/21/1962,1/21/2025,N,47,1
+9638-ZEFND,3/8/2022,Refferal,3/8/2024,Standard,Monthly,,,14.25,587,52,0,vandana,India,Karnataka,Male,11/4/1964,,,,
+9661-MBWTG,4/20/2023,Organic,4/20/2024,Standard,Annual,,,12.41,544,14,0,bal,India,Bihar,Female,10/25/1993,,,,
+9675-BFPHL,1/30/2021,Refferal,1/30/2024,Standard,Annual,,,18.77,1360,32,0,vidya,India,Rajasthan,Female,7/12/1982,,,,
+9689-DDJMS,4/13/2023,Organic,4/13/2025,Basic,Annual,,,9.46,419,11,0,jyoti,India,Himachal Pradesh,Male,6/17/1978,5/14/2025,N,63,4
+9695-DNWQO,7/18/2023,Paid,7/18/2026,Standard,Monthly,,,14,790,14,0,gaurav,India,Telangana,Male,1/29/1999,,,,
+9698-RKVDL,11/21/2020,Organic,11/21/2021,Basic,Annual,,,9,880,49,0,sundar,India,Kerala,Female,10/16/1980,,,,
+9709-MJVWA,12/19/2021,Paid,12/19/2022,Basic,Monthly,,,8.82,762,9,0,kishore,India,Uttarakhand,Male,7/4/2002,,,,
+9731-ZQCZQ,6/21/2023,Paid,6/21/2026,Basic,Monthly,,,6.92,405,34,0,chandan,India,Manipur,Female,11/4/1993,,,,
+9762-ALTLA,6/11/2020,Paid,6/11/2023,Premium,Monthly,,,24,2547,9,0,Kishore,India,Maharashtra,Male,7/7/2007,,,,
+9767-QNBNG,1/16/2021,Organic,1/16/2024,Premium,Annual,,,27.81,1810,4,0,Tarun,India,Goa,Female,12/21/1981,,,,
+9767-VJNMP,12/5/2021,Organic,12/5/2025,Premium,Annual,,,26.1,1800,23,0,sunita,India,Chhattisgarh,Male,10/29/1987,,,,
+9771-RABHL,4/7/2022,Refferal,4/7/2026,Basic,Annual,,,7.91,583,27,0,sundar,India,Delhi,Female,9/6/1970,,,,
+9783-TZEQQ,11/30/2023,Paid,11/30/2026,Basic,Monthly,,,7.22,310,10,0,sarita,India,Bihar,Female,12/14/1976,,,,
+9783-ZOJRI,10/30/2023,Paid,10/30/2025,Standard,Monthly,,,16.16,770,39,0,preeti,India,Uttarakhand,Female,5/7/1981,,,,
+9787-EBHBX,10/18/2023,Organic,10/18/2025,Standard,Monthly,4/6/2024,Payment failed repeatedly,14.55,305,75,1,kusum,India,Tripura,Male,9/29/1972,3/29/2024,N,4,4
+9814-DPXQO,11/16/2020,Refferal,11/16/2021,Basic,Annual,,,8.4,535,19,0,ramesh,India,Madhya Pradesh,Female,8/1/1981,,,,
+9829-JRKEG,2/25/2021,Paid,2/25/2024,Basic,Monthly,,,8.66,715,36,0,preeti,India,Gujarat,Female,2/6/1978,,,,
+9836-RPKYQ,12/8/2021,Organic,12/8/2022,Premium,Annual,,,24.67,1424,14,0,vidya,India,Tripura,Male,5/18/1993,,,,
+9842-URQBD,4/22/2020,Paid,4/22/2024,Standard,Annual,,,16.02,1317,37,0,amit,India,Punjab,Male,2/8/1993,,,,
+9872-QZJBR,6/2/2022,Organic,6/2/2023,Premium,Monthly,,,25.03,1405,10,0,chetan,India,Kerala,Female,2/2/1993,,,,
+9886-CDKSB,9/1/2020,Paid,9/1/2023,Basic,Monthly,,,8.01,850,20,0,chandan,India,Madhya Pradesh,Female,4/9/2001,6/4/2022,Y,41,2
+9894-MKOBJ,12/10/2020,Organic,12/10/2021,Premium,Monthly,,,22.51,1195,6,0,vidya,India,Chhattisgarh,Male,11/23/1995,,,,
+9910-KPERL,10/27/2021,Organic,10/27/2023,Premium,Annual,,,23.08,1126,41,0,sarita,India,Rajasthan,Male,10/3/1977,,,,
+9922-GOFSR,3/17/2021,Paid,3/17/2024,Standard,Monthly,,,14.5,1329,47,0,tarun,India,Kerala,Male,12/20/1992,,,,
+9925-OZQFT,8/18/2023,Paid,8/18/2027,Standard,Annual,2/14/2024,Slow internet speed,18.91,568,95,1,indira,Nepal,Kathmandu,Female,10/11/1977,2/7/2024,N,18,5
+9927-MQBQK,2/7/2022,Refferal,2/7/2024,Premium,Monthly,,,20.85,1800,25,0,tejendra,India,Madhya Pradesh,Female,9/5/1978,,,,
+9928-MVIQI,5/24/2023,Paid,5/24/2025,Premium,Monthly,,,23.92,1345,2,0,raghav,India,West Bengal,Male,8/3/1977,,,,
+9937-GQRDC,3/4/2023,Organic,3/4/2025,Standard,Monthly,,,16.93,604,41,0,urmila,India,Telangana,Male,12/9/2006,,,,
+9943-RYXUU,12/22/2021,Paid,12/22/2023,Standard,Annual,,,14,763,52,0,sarita,India,Karnataka,Male,3/16/2007,,,,
+9943-VSFTQ,3/6/2023,Paid,3/6/2025,Basic,Annual,,,8.6,380,7,0,gaurav,India,Odisha,Female,9/23/1970,,,,
+9944-KTEWM,11/2/2022,Refferal,11/2/2023,Standard,Monthly,,,16.2,1107,2,0,kusum,India,Manipur,Male,10/15/1967,12/17/2024,N,67,5
+9949-GHZFB,4/10/2021,Organic,4/10/2024,Standard,Monthly,3/6/2023,Slow internet speed,16.27,1340,84,1,kavita,India,Maharashtra,Female,3/30/1977,3/4/2023,Y,33,5
+9962-COQOF,10/18/2023,Paid,10/18/2025,Premium,Monthly,,,20.51,952,49,0,babita,India,Karnataka,Female,4/27/1958,,,,
+9973-IBPXF,11/21/2023,Refferal,11/21/2025,Basic,Monthly,,,9.86,323,11,0,ramkumar,India,Assam,Female,5/4/1990,,,,
+9976-LWVMO,5/30/2020,Organic,5/30/2022,Standard,Monthly,3/21/2024,Too expensive,16.76,748,90,1,om,India,Delhi,Female,6/16/1972,2/16/2024,N,10,1
+9979-VADRH,10/21/2023,Organic,10/21/2025,Basic,Annual,3/21/2025,Slow internet speed,7.06,148,83,1,anita,India,Haryana,Male,11/5/1973,2/21/2025,N,25,4
+9987-BOEFB,6/2/2022,Organic,6/2/2024,Standard,Annual,,,15.07,894,47,0,ramkumar,India,Rajasthan,Female,9/23/1988,,,,
+9987-ZJFPJ,5/15/2021,Organic,5/15/2024,Standard,Monthly,,,18.23,1515,25,0,sunita,India,Jharkhand,Male,1/22/2007,6/5/2021,N,73,1
+9998-YYQNT,7/11/2021,Paid,7/11/2024,Basic,Annual,,,9.64,689,15,0,narendra,India,Chhattisgarh,Male,12/27/1971,,,,
