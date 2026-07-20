@@ -142,6 +142,6 @@ SQL querying on a multi-table relational database · data cleaning & imputation 
 
 If this project is useful or you'd like to discuss it, feel free to reach out.
 
-**[[LinkedIn](www.linkedin.com/in/sanchit-akhare)](#)** ·  **[Email](sanchitakhare98@gmail.com)**
+**[LinkedIn](www.linkedin.com/in/sanchit-akhare)** ·  **[Email](sanchitakhare98@gmail.com)**
 
 </div>
