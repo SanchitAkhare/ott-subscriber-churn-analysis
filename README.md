@@ -114,7 +114,7 @@ These are queried via SQL, merged on `customerid`, and cleaned into a single **8
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/<your-username>/ott-churn-analysis.git
+git clone https://github.com/SanchitAkhare/ott-churn-analysis.git
 cd ott-churn-analysis
 pip install pandas numpy matplotlib seaborn
 jupyter notebook Churn_Analysis.ipynb
