@@ -79,7 +79,6 @@ These are queried via SQL, merged on `customerid`, and cleaned into a single **8
 |---|---|
 | ![heatmap](./images/correlation_heatmap.png) | ![pairplot](./images/pairplot.png) |
 
-> *(Add your exported chart images to an `/images` folder — see [Uploading Guide](#-how-to-upload-this-to-github) below.)*
 
 ---
 
@@ -143,6 +142,6 @@ SQL querying on a multi-table relational database · data cleaning & imputation 
 
 If this project is useful or you'd like to discuss it, feel free to reach out.
 
-**[LinkedIn](#)** · **[Portfolio](#)** · **[Email](#)**
+**[[LinkedIn](www.linkedin.com/in/sanchit-akhare)](#)** ·  **[Email](sanchitakhare98@gmail.com)**
 
 </div>
